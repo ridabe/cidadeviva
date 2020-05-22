@@ -29,7 +29,7 @@ define( 'DB_USER', 'cidadevivashop' );
 define( 'DB_PASSWORD', 'CVShopp@2020' );
 
 /** Nome do host do MySQL */
-define( 'DB_HOST', 'cidadevivashop.mysql.dbaas.com.br' );
+define( 'DB_HOST', '187.45.196.163' );
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -93,4 +93,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Configura as variáveis e arquivos do WordPress. */
 require_once ABSPATH . 'wp-settings.php';
-

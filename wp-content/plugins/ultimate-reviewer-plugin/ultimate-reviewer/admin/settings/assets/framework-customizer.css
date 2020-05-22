@@ -1,0 +1,71 @@
+/* Section header field  ************************************/
+
+.gp-section-header {
+font-size: 16px;
+margin: 8px 0 0 0;
+padding-top: 20px;
+border-top: 1px solid #ddd;
+}
+
+/* Title field field  ************************************/
+
+/*.customize-control-title {
+margin-bottom: 0;
+}*/
+
+/* Checkbox field field  ************************************/
+
+.customize-control-checkbox .gp-checkbox-field input {
+margin-left: 0;
+}
+
+/* Dimensions field  ************************************/
+
+.gp-dimensions-field .gp-units {
+margin-left: 5px;
+}
+
+/* Radio field field  ************************************/
+
+.customize-control-radio {
+padding-bottom: 0;
+}
+
+/* Styling fields  ************************************/
+
+.gp-styling-field {
+display: inline-block;
+float: left;
+width: 100%;
+}
+.gp-styling-field .gp-label {
+display: block;
+margin-bottom: 5px;
+}
+.customize-control input[type=text].gp-small-text {
+width: 80px;
+}
+
+/* Text field  ************************************/
+
+.customize-control input[type=text].gp-small-text {
+width: 80px;
+}
+
+
+@media only screen and (min-width : 768px) {
+
+	.gp-styling-field {
+	width: auto;
+	min-height: 60px;
+	margin-right: 15px;
+	}
+	.gp-styling-field.gp-single-styling-field {
+	min-height: auto;
+	margin-right: 0;
+	}
+	.gp-settings-section .form-table .gp-dimensions-field input[type='text'] {
+	width: 100px;
+	}
+
+}

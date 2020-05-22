@@ -1,0 +1,22 @@
+.gpur-status-table {
+margin-bottom: 1em;
+}
+.gpur-status-table h2 {
+font-size: 14px;
+margin: 0;
+}
+.gpur-status-table td:first-child {
+width: 33%;
+}
+.gpur-status-table .help {
+width: 1em;
+}
+.gpur-status-table .dashicons-yes { 
+color: #9ac364; 
+}
+.gpur-status-table .dashicons-no { 
+color: #e42362; 
+}
+.gpur-status-table .dashicons-warning { 
+color: #ffba00; 
+}

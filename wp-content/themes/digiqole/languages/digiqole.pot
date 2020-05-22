@@ -1,0 +1,4815 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Digiqole\n"
+"POT-Creation-Date: 2020-05-17 10:47+0600\n"
+"PO-Revision-Date: 2020-05-17 10:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:21
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#: 404.php:22
+msgid "Back to Home Page"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment "
+msgstr ""
+
+#: comments.php:38 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:104
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:117
+msgid "Enter Comments"
+msgstr ""
+
+#: comments.php:125
+msgid "You must be"
+msgstr ""
+
+#: comments.php:125
+msgid "logged in"
+msgstr ""
+
+#: comments.php:125
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:130
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:135
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:136
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:137
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:138 components/theme/options/customizer/options-blog.php:103
+msgid "Post Comment"
+msgstr ""
+
+#: components/editor/elementor/controls/icon.php:1209
+#: components/editor/elementor/controls/icon.php:1211
+msgid "Select Icon"
+msgstr ""
+
+#: components/editor/elementor/elementor.php:92 components/theme/manifest.php:5
+msgid "digiqole"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:16
+msgid "Category List Classic"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:32
+#: components/editor/elementor/widgets/category-list.php:38
+#: components/editor/elementor/widgets/editor-pick.php:44
+#: components/theme/options/customizer/options-newsticker.php:66
+#: template-parts/blog/category/parts/category-title.php:14
+msgid "Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:40
+#: components/editor/elementor/widgets/category-list.php:78
+#: components/editor/elementor/widgets/editor-pick.php:284
+#: components/editor/elementor/widgets/feature-post-tab.php:272
+#: components/editor/elementor/widgets/feature-post-tab.php:305
+#: components/editor/elementor/widgets/main-slider.php:420
+#: components/editor/elementor/widgets/post-block-slider.php:227
+#: components/editor/elementor/widgets/post-grid-loadmore.php:351
+#: components/editor/elementor/widgets/post-grid-slider.php:403
+#: components/editor/elementor/widgets/post-grid.php:375
+#: components/editor/elementor/widgets/post-horizontal-block.php:254
+#: components/editor/elementor/widgets/post-list.php:486
+#: components/editor/elementor/widgets/post-slider.php:413
+#: components/editor/elementor/widgets/post-vertical-grid.php:356
+#: components/editor/elementor/widgets/title.php:247
+#: components/editor/elementor/widgets/video-post-slider2.php:272
+#: components/editor/elementor/widgets/video-post-tab.php:207
+#: components/editor/elementor/widgets/video-post-tab.php:240
+#: components/theme/options/customizer/options-style.php:86
+msgid "Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:52
+msgid "Category background color"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:65
+#: components/editor/elementor/widgets/category-list.php:119
+msgid "Category count"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:75
+#: components/editor/elementor/widgets/category-list.php:129
+#: components/editor/elementor/widgets/post-horizontal-block.php:55
+msgid "Image Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:105
+#: components/editor/elementor/widgets/category-list.php:159
+msgid "Category title"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:114
+#: components/editor/elementor/widgets/category-list.php:168
+msgid "Custom Category "
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:116
+#: components/editor/elementor/widgets/category-classic.php:138
+#: components/editor/elementor/widgets/category-list.php:170
+#: components/editor/elementor/widgets/category-list.php:192
+#: components/editor/elementor/widgets/comments.php:117
+#: components/editor/elementor/widgets/editor-pick.php:111
+#: components/editor/elementor/widgets/editor-pick.php:124
+#: components/editor/elementor/widgets/editor-pick.php:146
+#: components/editor/elementor/widgets/editor-pick.php:167
+#: components/editor/elementor/widgets/editor-pick.php:219
+#: components/editor/elementor/widgets/editor-pick.php:230
+#: components/editor/elementor/widgets/editor-pick.php:241
+#: components/editor/elementor/widgets/editor-pick.php:253
+#: components/editor/elementor/widgets/feature-post-tab.php:125
+#: components/editor/elementor/widgets/feature-post-tab.php:136
+#: components/editor/elementor/widgets/feature-post-tab.php:146
+#: components/editor/elementor/widgets/feature-post-tab.php:158
+#: components/editor/elementor/widgets/feature-post-tab.php:204
+#: components/editor/elementor/widgets/feature-post-tab.php:240
+#: components/editor/elementor/widgets/main-slider.php:88
+#: components/editor/elementor/widgets/main-slider.php:101
+#: components/editor/elementor/widgets/main-slider.php:112
+#: components/editor/elementor/widgets/main-slider.php:171
+#: components/editor/elementor/widgets/main-slider.php:191
+#: components/editor/elementor/widgets/main-slider.php:202
+#: components/editor/elementor/widgets/main-slider.php:273
+#: components/editor/elementor/widgets/main-slider.php:284
+#: components/editor/elementor/widgets/main-slider.php:295
+#: components/editor/elementor/widgets/main-slider.php:367
+#: components/editor/elementor/widgets/main-slider.php:378
+#: components/editor/elementor/widgets/post-block-slider.php:109
+#: components/editor/elementor/widgets/post-block-slider.php:120
+#: components/editor/elementor/widgets/post-block-slider.php:131
+#: components/editor/elementor/widgets/post-block-slider.php:170
+#: components/editor/elementor/widgets/post-block-slider.php:202
+#: components/editor/elementor/widgets/post-block-slider.php:215
+#: components/editor/elementor/widgets/post-block.php:207
+#: components/editor/elementor/widgets/post-block.php:243
+#: components/editor/elementor/widgets/post-block.php:278
+#: components/editor/elementor/widgets/post-block.php:289
+#: components/editor/elementor/widgets/post-block.php:337
+#: components/editor/elementor/widgets/post-block.php:348
+#: components/editor/elementor/widgets/post-block.php:359
+#: components/editor/elementor/widgets/post-block.php:370
+#: components/editor/elementor/widgets/post-block.php:417
+#: components/editor/elementor/widgets/post-block.php:440
+#: components/editor/elementor/widgets/post-grid-loadmore.php:94
+#: components/editor/elementor/widgets/post-grid-loadmore.php:105
+#: components/editor/elementor/widgets/post-grid-loadmore.php:116
+#: components/editor/elementor/widgets/post-grid-loadmore.php:214
+#: components/editor/elementor/widgets/post-grid-loadmore.php:224
+#: components/editor/elementor/widgets/post-grid-loadmore.php:235
+#: components/editor/elementor/widgets/post-grid-loadmore.php:246
+#: components/editor/elementor/widgets/post-grid-loadmore.php:259
+#: components/editor/elementor/widgets/post-grid-loadmore.php:306
+#: components/editor/elementor/widgets/post-grid-slider.php:59
+#: components/editor/elementor/widgets/post-grid-slider.php:70
+#: components/editor/elementor/widgets/post-grid-slider.php:83
+#: components/editor/elementor/widgets/post-grid-slider.php:95
+#: components/editor/elementor/widgets/post-grid-slider.php:164
+#: components/editor/elementor/widgets/post-grid-slider.php:243
+#: components/editor/elementor/widgets/post-grid-slider.php:254
+#: components/editor/elementor/widgets/post-grid-slider.php:265
+#: components/editor/elementor/widgets/post-grid-slider.php:277
+#: components/editor/elementor/widgets/post-grid-slider.php:324
+#: components/editor/elementor/widgets/post-grid-slider.php:349
+#: components/editor/elementor/widgets/post-grid-slider.php:373
+#: components/editor/elementor/widgets/post-grid.php:115
+#: components/editor/elementor/widgets/post-grid.php:127
+#: components/editor/elementor/widgets/post-grid.php:225
+#: components/editor/elementor/widgets/post-grid.php:236
+#: components/editor/elementor/widgets/post-grid.php:247
+#: components/editor/elementor/widgets/post-grid.php:260
+#: components/editor/elementor/widgets/post-grid.php:306
+#: components/editor/elementor/widgets/post-grid.php:345
+#: components/editor/elementor/widgets/post-horizontal-block.php:96
+#: components/editor/elementor/widgets/post-horizontal-block.php:159
+#: components/editor/elementor/widgets/post-horizontal-block.php:170
+#: components/editor/elementor/widgets/post-horizontal-block.php:181
+#: components/editor/elementor/widgets/post-horizontal-block.php:221
+#: components/editor/elementor/widgets/post-list-tab.php:82
+#: components/editor/elementor/widgets/post-list-tab.php:92
+#: components/editor/elementor/widgets/post-list.php:133
+#: components/editor/elementor/widgets/post-list.php:154
+#: components/editor/elementor/widgets/post-list.php:178
+#: components/editor/elementor/widgets/post-list.php:192
+#: components/editor/elementor/widgets/post-list.php:263
+#: components/editor/elementor/widgets/post-list.php:274
+#: components/editor/elementor/widgets/post-list.php:299
+#: components/editor/elementor/widgets/post-list.php:312
+#: components/editor/elementor/widgets/post-list.php:324
+#: components/editor/elementor/widgets/post-list.php:335
+#: components/editor/elementor/widgets/post-list.php:596
+#: components/editor/elementor/widgets/post-slider.php:85
+#: components/editor/elementor/widgets/post-slider.php:98
+#: components/editor/elementor/widgets/post-slider.php:111
+#: components/editor/elementor/widgets/post-slider.php:124
+#: components/editor/elementor/widgets/post-slider.php:181
+#: components/editor/elementor/widgets/post-slider.php:203
+#: components/editor/elementor/widgets/post-slider.php:216
+#: components/editor/elementor/widgets/post-slider.php:263
+#: components/editor/elementor/widgets/post-slider.php:274
+#: components/editor/elementor/widgets/post-slider.php:285
+#: components/editor/elementor/widgets/post-slider.php:322
+#: components/editor/elementor/widgets/post-slider.php:334
+#: components/editor/elementor/widgets/post-slider.php:394
+#: components/editor/elementor/widgets/post-tab.php:39
+#: components/editor/elementor/widgets/post-tab.php:144
+#: components/editor/elementor/widgets/post-tab.php:155
+#: components/editor/elementor/widgets/post-tab.php:203
+#: components/editor/elementor/widgets/post-tab.php:214
+#: components/editor/elementor/widgets/post-tab.php:282
+#: components/editor/elementor/widgets/post-vertical-grid.php:122
+#: components/editor/elementor/widgets/post-vertical-grid.php:143
+#: components/editor/elementor/widgets/post-vertical-grid.php:154
+#: components/editor/elementor/widgets/post-vertical-grid.php:211
+#: components/editor/elementor/widgets/post-vertical-grid.php:222
+#: components/editor/elementor/widgets/post-vertical-grid.php:233
+#: components/editor/elementor/widgets/post-vertical-grid.php:283
+#: components/editor/elementor/widgets/video-post-slider2.php:112
+#: components/editor/elementor/widgets/video-post-slider2.php:123
+#: components/editor/elementor/widgets/video-post-slider2.php:160
+#: components/editor/elementor/widgets/video-post-tab.php:118
+#: components/editor/elementor/widgets/video-post-tab.php:129
+#: components/editor/elementor/widgets/video-post-tab.php:139
+#: components/editor/elementor/widgets/video-post-tab.php:175
+#: components/theme/options/customizer/options-ads.php:47
+#: components/theme/options/customizer/options-ads.php:105
+#: components/theme/options/customizer/options-blocks.php:74
+#: components/theme/options/customizer/options-blocks.php:114
+#: components/theme/options/customizer/options-blocks.php:128
+#: components/theme/options/customizer/options-blocks.php:142
+#: components/theme/options/customizer/options-blocks.php:156
+#: components/theme/options/customizer/options-blocks.php:171
+#: components/theme/options/customizer/options-blocks.php:186
+#: components/theme/options/customizer/options-blocks.php:201
+#: components/theme/options/customizer/options-blocks.php:216
+#: components/theme/options/customizer/options-blocks.php:266
+#: components/theme/options/customizer/options-blocks.php:296
+#: components/theme/options/customizer/options-blog.php:19
+#: components/theme/options/customizer/options-blog.php:93
+#: components/theme/options/customizer/options-blog.php:108
+#: components/theme/options/customizer/options-blog.php:124
+#: components/theme/options/customizer/options-blog.php:139
+#: components/theme/options/customizer/options-blog.php:153
+#: components/theme/options/customizer/options-blog.php:168
+#: components/theme/options/customizer/options-blog.php:182
+#: components/theme/options/customizer/options-blog.php:209
+#: components/theme/options/customizer/options-blog.php:225
+#: components/theme/options/customizer/options-blog.php:241
+#: components/theme/options/customizer/options-blog.php:258
+#: components/theme/options/customizer/options-blog.php:272
+#: components/theme/options/customizer/options-footer.php:20
+#: components/theme/options/customizer/options-footer.php:105
+#: components/theme/options/customizer/options-general.php:17
+#: components/theme/options/customizer/options-general.php:39
+#: components/theme/options/customizer/options-general.php:109
+#: components/theme/options/customizer/options-general.php:159
+#: components/theme/options/customizer/options-general.php:206
+#: components/theme/options/customizer/options-header.php:25
+#: components/theme/options/customizer/options-header.php:122
+#: components/theme/options/customizer/options-header.php:139
+#: components/theme/options/customizer/options-header.php:185
+#: components/theme/options/customizer/options-header.php:201
+#: components/theme/options/customizer/options-newsticker.php:18
+#: components/theme/options/customizer/options-newsticker.php:49
+#: components/theme/options/customizer/options-style.php:20
+#: components/theme/options/posts/post.php:19
+#: components/theme/options/taxonomies/category.php:36
+#: components/theme/options/taxonomies/category.php:93
+#: components/theme/options/taxonomies/category.php:140
+#: components/theme/options/taxonomies/category.php:169
+msgid "Yes"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:117
+#: components/editor/elementor/widgets/category-classic.php:139
+#: components/editor/elementor/widgets/category-list.php:171
+#: components/editor/elementor/widgets/category-list.php:193
+#: components/editor/elementor/widgets/comments.php:118
+#: components/editor/elementor/widgets/editor-pick.php:112
+#: components/editor/elementor/widgets/editor-pick.php:125
+#: components/editor/elementor/widgets/editor-pick.php:147
+#: components/editor/elementor/widgets/editor-pick.php:168
+#: components/editor/elementor/widgets/editor-pick.php:220
+#: components/editor/elementor/widgets/editor-pick.php:231
+#: components/editor/elementor/widgets/editor-pick.php:242
+#: components/editor/elementor/widgets/editor-pick.php:254
+#: components/editor/elementor/widgets/feature-post-tab.php:126
+#: components/editor/elementor/widgets/feature-post-tab.php:137
+#: components/editor/elementor/widgets/feature-post-tab.php:147
+#: components/editor/elementor/widgets/feature-post-tab.php:159
+#: components/editor/elementor/widgets/feature-post-tab.php:205
+#: components/editor/elementor/widgets/feature-post-tab.php:241
+#: components/editor/elementor/widgets/main-slider.php:89
+#: components/editor/elementor/widgets/main-slider.php:102
+#: components/editor/elementor/widgets/main-slider.php:113
+#: components/editor/elementor/widgets/main-slider.php:172
+#: components/editor/elementor/widgets/main-slider.php:192
+#: components/editor/elementor/widgets/main-slider.php:203
+#: components/editor/elementor/widgets/main-slider.php:274
+#: components/editor/elementor/widgets/main-slider.php:285
+#: components/editor/elementor/widgets/main-slider.php:296
+#: components/editor/elementor/widgets/main-slider.php:368
+#: components/editor/elementor/widgets/main-slider.php:379
+#: components/editor/elementor/widgets/post-block-slider.php:110
+#: components/editor/elementor/widgets/post-block-slider.php:121
+#: components/editor/elementor/widgets/post-block-slider.php:132
+#: components/editor/elementor/widgets/post-block-slider.php:171
+#: components/editor/elementor/widgets/post-block-slider.php:203
+#: components/editor/elementor/widgets/post-block-slider.php:216
+#: components/editor/elementor/widgets/post-block.php:208
+#: components/editor/elementor/widgets/post-block.php:244
+#: components/editor/elementor/widgets/post-block.php:279
+#: components/editor/elementor/widgets/post-block.php:290
+#: components/editor/elementor/widgets/post-block.php:338
+#: components/editor/elementor/widgets/post-block.php:349
+#: components/editor/elementor/widgets/post-block.php:360
+#: components/editor/elementor/widgets/post-block.php:371
+#: components/editor/elementor/widgets/post-block.php:418
+#: components/editor/elementor/widgets/post-block.php:441
+#: components/editor/elementor/widgets/post-grid-loadmore.php:95
+#: components/editor/elementor/widgets/post-grid-loadmore.php:106
+#: components/editor/elementor/widgets/post-grid-loadmore.php:117
+#: components/editor/elementor/widgets/post-grid-loadmore.php:215
+#: components/editor/elementor/widgets/post-grid-loadmore.php:225
+#: components/editor/elementor/widgets/post-grid-loadmore.php:236
+#: components/editor/elementor/widgets/post-grid-loadmore.php:247
+#: components/editor/elementor/widgets/post-grid-loadmore.php:260
+#: components/editor/elementor/widgets/post-grid-loadmore.php:307
+#: components/editor/elementor/widgets/post-grid-slider.php:60
+#: components/editor/elementor/widgets/post-grid-slider.php:71
+#: components/editor/elementor/widgets/post-grid-slider.php:84
+#: components/editor/elementor/widgets/post-grid-slider.php:96
+#: components/editor/elementor/widgets/post-grid-slider.php:165
+#: components/editor/elementor/widgets/post-grid-slider.php:244
+#: components/editor/elementor/widgets/post-grid-slider.php:255
+#: components/editor/elementor/widgets/post-grid-slider.php:266
+#: components/editor/elementor/widgets/post-grid-slider.php:278
+#: components/editor/elementor/widgets/post-grid-slider.php:325
+#: components/editor/elementor/widgets/post-grid-slider.php:350
+#: components/editor/elementor/widgets/post-grid-slider.php:374
+#: components/editor/elementor/widgets/post-grid.php:116
+#: components/editor/elementor/widgets/post-grid.php:128
+#: components/editor/elementor/widgets/post-grid.php:226
+#: components/editor/elementor/widgets/post-grid.php:237
+#: components/editor/elementor/widgets/post-grid.php:248
+#: components/editor/elementor/widgets/post-grid.php:261
+#: components/editor/elementor/widgets/post-grid.php:307
+#: components/editor/elementor/widgets/post-grid.php:346
+#: components/editor/elementor/widgets/post-horizontal-block.php:97
+#: components/editor/elementor/widgets/post-horizontal-block.php:160
+#: components/editor/elementor/widgets/post-horizontal-block.php:171
+#: components/editor/elementor/widgets/post-horizontal-block.php:182
+#: components/editor/elementor/widgets/post-horizontal-block.php:222
+#: components/editor/elementor/widgets/post-list-tab.php:83
+#: components/editor/elementor/widgets/post-list-tab.php:93
+#: components/editor/elementor/widgets/post-list.php:134
+#: components/editor/elementor/widgets/post-list.php:155
+#: components/editor/elementor/widgets/post-list.php:179
+#: components/editor/elementor/widgets/post-list.php:193
+#: components/editor/elementor/widgets/post-list.php:264
+#: components/editor/elementor/widgets/post-list.php:275
+#: components/editor/elementor/widgets/post-list.php:300
+#: components/editor/elementor/widgets/post-list.php:313
+#: components/editor/elementor/widgets/post-list.php:325
+#: components/editor/elementor/widgets/post-list.php:336
+#: components/editor/elementor/widgets/post-list.php:597
+#: components/editor/elementor/widgets/post-slider.php:86
+#: components/editor/elementor/widgets/post-slider.php:99
+#: components/editor/elementor/widgets/post-slider.php:112
+#: components/editor/elementor/widgets/post-slider.php:125
+#: components/editor/elementor/widgets/post-slider.php:182
+#: components/editor/elementor/widgets/post-slider.php:204
+#: components/editor/elementor/widgets/post-slider.php:217
+#: components/editor/elementor/widgets/post-slider.php:264
+#: components/editor/elementor/widgets/post-slider.php:275
+#: components/editor/elementor/widgets/post-slider.php:286
+#: components/editor/elementor/widgets/post-slider.php:323
+#: components/editor/elementor/widgets/post-slider.php:335
+#: components/editor/elementor/widgets/post-slider.php:395
+#: components/editor/elementor/widgets/post-tab.php:40
+#: components/editor/elementor/widgets/post-tab.php:145
+#: components/editor/elementor/widgets/post-tab.php:156
+#: components/editor/elementor/widgets/post-tab.php:204
+#: components/editor/elementor/widgets/post-tab.php:215
+#: components/editor/elementor/widgets/post-tab.php:283
+#: components/editor/elementor/widgets/post-vertical-grid.php:123
+#: components/editor/elementor/widgets/post-vertical-grid.php:144
+#: components/editor/elementor/widgets/post-vertical-grid.php:155
+#: components/editor/elementor/widgets/post-vertical-grid.php:212
+#: components/editor/elementor/widgets/post-vertical-grid.php:223
+#: components/editor/elementor/widgets/post-vertical-grid.php:234
+#: components/editor/elementor/widgets/post-vertical-grid.php:284
+#: components/editor/elementor/widgets/video-post-slider2.php:113
+#: components/editor/elementor/widgets/video-post-slider2.php:124
+#: components/editor/elementor/widgets/video-post-slider2.php:161
+#: components/editor/elementor/widgets/video-post-tab.php:119
+#: components/editor/elementor/widgets/video-post-tab.php:130
+#: components/editor/elementor/widgets/video-post-tab.php:140
+#: components/editor/elementor/widgets/video-post-tab.php:176
+#: components/theme/options/customizer/options-ads.php:51
+#: components/theme/options/customizer/options-ads.php:109
+#: components/theme/options/customizer/options-blocks.php:78
+#: components/theme/options/customizer/options-blocks.php:118
+#: components/theme/options/customizer/options-blocks.php:132
+#: components/theme/options/customizer/options-blocks.php:146
+#: components/theme/options/customizer/options-blocks.php:160
+#: components/theme/options/customizer/options-blocks.php:175
+#: components/theme/options/customizer/options-blocks.php:190
+#: components/theme/options/customizer/options-blocks.php:205
+#: components/theme/options/customizer/options-blocks.php:220
+#: components/theme/options/customizer/options-blocks.php:270
+#: components/theme/options/customizer/options-blocks.php:300
+#: components/theme/options/customizer/options-blog.php:23
+#: components/theme/options/customizer/options-blog.php:97
+#: components/theme/options/customizer/options-blog.php:112
+#: components/theme/options/customizer/options-blog.php:128
+#: components/theme/options/customizer/options-blog.php:143
+#: components/theme/options/customizer/options-blog.php:157
+#: components/theme/options/customizer/options-blog.php:172
+#: components/theme/options/customizer/options-blog.php:186
+#: components/theme/options/customizer/options-blog.php:213
+#: components/theme/options/customizer/options-blog.php:229
+#: components/theme/options/customizer/options-blog.php:245
+#: components/theme/options/customizer/options-blog.php:262
+#: components/theme/options/customizer/options-blog.php:276
+#: components/theme/options/customizer/options-footer.php:24
+#: components/theme/options/customizer/options-footer.php:109
+#: components/theme/options/customizer/options-general.php:21
+#: components/theme/options/customizer/options-general.php:43
+#: components/theme/options/customizer/options-general.php:113
+#: components/theme/options/customizer/options-general.php:163
+#: components/theme/options/customizer/options-general.php:210
+#: components/theme/options/customizer/options-header.php:29
+#: components/theme/options/customizer/options-header.php:126
+#: components/theme/options/customizer/options-header.php:144
+#: components/theme/options/customizer/options-header.php:189
+#: components/theme/options/customizer/options-header.php:205
+#: components/theme/options/customizer/options-newsticker.php:22
+#: components/theme/options/customizer/options-newsticker.php:53
+#: components/theme/options/customizer/options-style.php:24
+#: components/theme/options/posts/post.php:23
+#: components/theme/options/taxonomies/category.php:40
+#: components/theme/options/taxonomies/category.php:97
+#: components/theme/options/taxonomies/category.php:144
+#: components/theme/options/taxonomies/category.php:173
+msgid "No"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:124
+#: components/editor/elementor/widgets/category-list.php:178
+#: components/editor/elementor/widgets/editor-pick.php:74
+#: components/editor/elementor/widgets/feature-post-tab.php:101
+#: components/editor/elementor/widgets/main-slider.php:146
+#: components/editor/elementor/widgets/post-block-slider.php:83
+#: components/editor/elementor/widgets/post-block.php:254
+#: components/editor/elementor/widgets/post-grid-loadmore.php:189
+#: components/editor/elementor/widgets/post-grid-slider.php:218
+#: components/editor/elementor/widgets/post-grid.php:200
+#: components/editor/elementor/widgets/post-horizontal-block.php:133
+#: components/editor/elementor/widgets/post-list.php:237
+#: components/editor/elementor/widgets/post-slider.php:157
+#: components/editor/elementor/widgets/post-tab.php:259
+#: components/editor/elementor/widgets/post-vertical-grid.php:98
+#: components/editor/elementor/widgets/video-post-slider2.php:87
+#: components/editor/elementor/widgets/video-post-tab.php:93
+msgid "Select Categories"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:136
+#: components/editor/elementor/widgets/category-list.php:190
+msgid "Enable category skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-classic.php:148
+#: components/editor/elementor/widgets/category-list.php:202
+msgid "Skip category count"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:19
+msgid "Category List"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:46
+#: components/editor/elementor/widgets/main-slider.php:38
+#: components/editor/elementor/widgets/post-block.php:38
+#: components/editor/elementor/widgets/post-grid-loadmore.php:39
+#: components/editor/elementor/widgets/post-grid-slider.php:39
+#: components/editor/elementor/widgets/post-grid.php:39
+#: components/editor/elementor/widgets/post-list.php:39
+#: components/editor/elementor/widgets/post-slider.php:38
+#: components/editor/elementor/widgets/post-vertical-grid.php:38
+#: components/editor/elementor/widgets/title.php:41
+msgid "Choose Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:51
+#: components/editor/elementor/widgets/main-slider.php:43
+#: components/editor/elementor/widgets/post-block.php:44
+#: components/editor/elementor/widgets/post-grid-loadmore.php:45
+#: components/editor/elementor/widgets/post-grid-slider.php:44
+#: components/editor/elementor/widgets/post-grid.php:44
+#: components/editor/elementor/widgets/post-list.php:44
+#: components/editor/elementor/widgets/post-slider.php:43
+#: components/editor/elementor/widgets/post-tab.php:54
+#: components/editor/elementor/widgets/post-vertical-grid.php:43
+#: components/editor/elementor/widgets/title.php:46
+msgid "Style 1"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:57
+#: components/editor/elementor/widgets/main-slider.php:49
+#: components/editor/elementor/widgets/post-block.php:50
+#: components/editor/elementor/widgets/post-grid-loadmore.php:51
+#: components/editor/elementor/widgets/post-grid.php:50
+#: components/editor/elementor/widgets/post-list.php:50
+#: components/editor/elementor/widgets/post-slider.php:49
+#: components/editor/elementor/widgets/post-tab.php:55
+#: components/editor/elementor/widgets/post-vertical-grid.php:49
+#: components/editor/elementor/widgets/title.php:52
+#: components/editor/elementor/widgets/title.php:58
+#: components/editor/elementor/widgets/title.php:64
+msgid "Style 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:63
+#: components/editor/elementor/widgets/main-slider.php:56
+#: components/editor/elementor/widgets/post-block.php:56
+#: components/editor/elementor/widgets/post-grid-loadmore.php:57
+#: components/editor/elementor/widgets/post-list.php:57
+msgid "Style 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:90
+msgid "Number color"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:102
+#: components/editor/elementor/widgets/post-block.php:130
+msgid "Number of Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:105
+#: components/editor/elementor/widgets/post-block.php:133
+msgid "2"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:106
+#: components/editor/elementor/widgets/post-block.php:134
+msgid "3"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:107
+#: components/editor/elementor/widgets/post-block.php:135
+msgid "4"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:108
+msgid "5"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:18
+#: components/editor/elementor/widgets/comments.php:142
+#: components/editor/elementor/widgets/comments.php:203
+msgid "Comments"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:34
+msgid "Comment settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:41
+msgid "Comment count"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:51
+msgid "Comment crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:61
+msgid "Comment order"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:65
+#: components/editor/elementor/widgets/editor-pick.php:100
+#: components/editor/elementor/widgets/feature-post-tab.php:229
+#: components/editor/elementor/widgets/main-slider.php:323
+#: components/editor/elementor/widgets/post-block-slider.php:159
+#: components/editor/elementor/widgets/post-block.php:406
+#: components/editor/elementor/widgets/post-grid-loadmore.php:333
+#: components/editor/elementor/widgets/post-grid-slider.php:362
+#: components/editor/elementor/widgets/post-grid.php:334
+#: components/editor/elementor/widgets/post-horizontal-block.php:210
+#: components/editor/elementor/widgets/post-list.php:385
+#: components/editor/elementor/widgets/post-slider.php:312
+#: components/editor/elementor/widgets/post-tab.php:241
+#: components/editor/elementor/widgets/post-vertical-grid.php:260
+#: components/editor/elementor/widgets/video-post-slider2.php:149
+#: components/editor/elementor/widgets/video-post-tab.php:164
+msgid "Descending"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:66
+#: components/editor/elementor/widgets/editor-pick.php:101
+#: components/editor/elementor/widgets/feature-post-tab.php:230
+#: components/editor/elementor/widgets/main-slider.php:324
+#: components/editor/elementor/widgets/post-block-slider.php:160
+#: components/editor/elementor/widgets/post-block.php:407
+#: components/editor/elementor/widgets/post-grid-loadmore.php:334
+#: components/editor/elementor/widgets/post-grid-slider.php:363
+#: components/editor/elementor/widgets/post-grid.php:335
+#: components/editor/elementor/widgets/post-horizontal-block.php:211
+#: components/editor/elementor/widgets/post-list.php:386
+#: components/editor/elementor/widgets/post-slider.php:313
+#: components/editor/elementor/widgets/post-tab.php:242
+#: components/editor/elementor/widgets/post-vertical-grid.php:261
+#: components/editor/elementor/widgets/video-post-slider2.php:150
+#: components/editor/elementor/widgets/video-post-tab.php:165
+msgid "Ascending"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:73
+#: components/editor/elementor/widgets/site-logo.php:74
+#: components/editor/elementor/widgets/title.php:112
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:240
+msgid "Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:79
+#: components/editor/elementor/widgets/site-logo.php:79
+#: components/theme/options/customizer/options-blocks.php:236
+#: components/theme/options/taxonomies/category.php:124
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:244
+msgid "Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:85
+#: components/editor/elementor/widgets/site-logo.php:83
+#: components/editor/elementor/widgets/title.php:124
+#: components/theme/options/customizer/options-blocks.php:237
+#: components/theme/options/taxonomies/category.php:125
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:248
+msgid "Center"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:91
+#: components/editor/elementor/widgets/site-logo.php:87
+#: components/editor/elementor/widgets/title.php:130
+#: components/theme/options/customizer/options-blocks.php:238
+#: components/theme/options/taxonomies/category.php:126
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:252
+msgid "Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:97
+#: components/editor/elementor/widgets/title.php:136
+msgid "Justified"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:115
+msgid "Enable comment skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:127
+msgid "Skip comment count"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:150
+msgid "Comments color"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:161
+msgid "Comments hover color"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:173
+msgid "Author color"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:187
+msgid "Date color"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:214
+msgid "Item Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/comments.php:294
+msgid "by"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:16
+msgid "Editor Pick Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:32
+#: components/editor/elementor/widgets/editor-pick.php:276
+#: components/editor/elementor/widgets/feature-post-tab.php:32
+#: components/editor/elementor/widgets/main-slider.php:32
+#: components/editor/elementor/widgets/post-block-slider.php:32
+#: components/editor/elementor/widgets/post-block.php:32
+#: components/editor/elementor/widgets/post-grid-slider.php:32
+#: components/editor/elementor/widgets/post-grid.php:32
+#: components/editor/elementor/widgets/post-horizontal-block.php:38
+#: components/editor/elementor/widgets/post-list.php:32
+#: components/editor/elementor/widgets/post-list.php:478
+#: components/editor/elementor/widgets/post-slider.php:32
+#: components/editor/elementor/widgets/post-tab.php:29
+#: components/editor/elementor/widgets/post-vertical-grid.php:32
+#: components/editor/elementor/widgets/video-post-slider2.php:32
+#: components/editor/elementor/widgets/video-post-slider2.php:264
+#: components/editor/elementor/widgets/video-post-tab.php:32
+msgid "Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:39
+msgid "Post pick by"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:45
+msgid "Sticky posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:46
+#: components/editor/elementor/widgets/editor-pick.php:64
+msgid "Post id"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:47
+msgid "Author"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:55
+msgid "Author id"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:57
+#: components/editor/elementor/widgets/editor-pick.php:66
+msgid "1,2,3"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:86
+#: components/editor/elementor/widgets/feature-post-tab.php:40
+#: components/editor/elementor/widgets/main-slider.php:76
+#: components/editor/elementor/widgets/post-block-slider.php:40
+#: components/editor/elementor/widgets/post-block.php:121
+#: components/editor/elementor/widgets/post-grid-loadmore.php:136
+#: components/editor/elementor/widgets/post-grid-slider.php:173
+#: components/editor/elementor/widgets/post-grid.php:147
+#: components/editor/elementor/widgets/post-horizontal-block.php:46
+#: components/editor/elementor/widgets/post-list-tab.php:63
+#: components/editor/elementor/widgets/post-list.php:91
+#: components/editor/elementor/widgets/post-slider.php:64
+#: components/editor/elementor/widgets/post-tab.php:91
+#: components/editor/elementor/widgets/post-vertical-grid.php:64
+#: components/editor/elementor/widgets/video-post-slider2.php:40
+#: components/editor/elementor/widgets/video-post-tab.php:40
+msgid "Post count"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:95
+#: components/editor/elementor/widgets/feature-post-tab.php:225
+#: components/editor/elementor/widgets/main-slider.php:319
+#: components/editor/elementor/widgets/post-block-slider.php:155
+#: components/editor/elementor/widgets/post-block.php:402
+#: components/editor/elementor/widgets/post-grid-loadmore.php:329
+#: components/editor/elementor/widgets/post-grid-slider.php:358
+#: components/editor/elementor/widgets/post-grid.php:330
+#: components/editor/elementor/widgets/post-horizontal-block.php:206
+#: components/editor/elementor/widgets/post-list.php:381
+#: components/editor/elementor/widgets/post-slider.php:308
+#: components/editor/elementor/widgets/post-tab.php:237
+#: components/editor/elementor/widgets/post-vertical-grid.php:256
+#: components/editor/elementor/widgets/video-post-slider2.php:145
+#: components/editor/elementor/widgets/video-post-tab.php:160
+msgid "Post order"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:109
+#: components/editor/elementor/widgets/main-slider.php:86
+#: components/editor/elementor/widgets/post-block-slider.php:200
+#: components/editor/elementor/widgets/post-grid-slider.php:68
+#: components/editor/elementor/widgets/post-slider.php:83
+msgid "Autoplay"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:122
+#: components/editor/elementor/widgets/post-slider.php:109
+msgid "Nav"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:134
+#: components/editor/elementor/widgets/feature-post-tab.php:48
+#: components/editor/elementor/widgets/main-slider.php:122
+#: components/editor/elementor/widgets/post-block-slider.php:59
+#: components/editor/elementor/widgets/post-block.php:179
+#: components/editor/elementor/widgets/post-horizontal-block.php:85
+#: components/editor/elementor/widgets/post-list-tab.php:71
+#: components/editor/elementor/widgets/post-list.php:101
+#: components/editor/elementor/widgets/post-slider.php:134
+#: components/editor/elementor/widgets/post-vertical-grid.php:74
+#: components/editor/elementor/widgets/video-post-slider2.php:48
+#: components/editor/elementor/widgets/video-post-tab.php:48
+msgid "Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:144
+#: components/editor/elementor/widgets/main-slider.php:169
+#: components/editor/elementor/widgets/post-block.php:205
+#: components/editor/elementor/widgets/post-grid.php:113
+#: components/editor/elementor/widgets/post-horizontal-block.php:94
+#: components/editor/elementor/widgets/post-list.php:131
+#: components/editor/elementor/widgets/post-slider.php:179
+#: components/editor/elementor/widgets/post-vertical-grid.php:120
+msgid "Show post description"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:156
+#: components/editor/elementor/widgets/main-slider.php:180
+#: components/editor/elementor/widgets/post-block.php:217
+#: components/editor/elementor/widgets/post-horizontal-block.php:105
+#: components/editor/elementor/widgets/post-list.php:142
+#: components/editor/elementor/widgets/post-slider.php:191
+#: components/editor/elementor/widgets/post-tab.php:118
+#: components/editor/elementor/widgets/post-vertical-grid.php:131
+msgid "Post content crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:165
+#: components/editor/elementor/widgets/feature-post-tab.php:144
+#: components/editor/elementor/widgets/main-slider.php:189
+#: components/editor/elementor/widgets/post-block.php:276
+#: components/editor/elementor/widgets/post-grid-loadmore.php:244
+#: components/editor/elementor/widgets/post-grid-slider.php:263
+#: components/editor/elementor/widgets/post-grid.php:245
+#: components/editor/elementor/widgets/post-list.php:176
+#: components/editor/elementor/widgets/post-slider.php:201
+#: components/editor/elementor/widgets/post-tab.php:142
+#: components/editor/elementor/widgets/post-vertical-grid.php:141
+msgid "Show Author"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:176
+#: components/editor/elementor/widgets/post-slider.php:355
+#: components/editor/elementor/widgets/post-vertical-grid.php:315
+msgid "Thumbnail height"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:207
+#: components/editor/elementor/widgets/editor-pick.php:209
+#: components/editor/elementor/widgets/main-slider.php:261
+#: components/editor/elementor/widgets/post-block.php:379
+#: components/editor/elementor/widgets/post-list.php:346
+#: components/editor/elementor/widgets/post-vertical-grid.php:199
+#: components/theme/options/customizer/options-blocks.php:211
+msgid "Read more"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:217
+#: components/editor/elementor/widgets/main-slider.php:271
+#: components/editor/elementor/widgets/post-block-slider.php:107
+#: components/editor/elementor/widgets/post-block.php:335
+#: components/editor/elementor/widgets/post-grid-loadmore.php:304
+#: components/editor/elementor/widgets/post-grid-slider.php:322
+#: components/editor/elementor/widgets/post-grid.php:304
+#: components/editor/elementor/widgets/post-horizontal-block.php:157
+#: components/editor/elementor/widgets/post-list.php:310
+#: components/editor/elementor/widgets/post-slider.php:261
+#: components/editor/elementor/widgets/post-vertical-grid.php:209
+msgid "Show view Count"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:228
+#: components/editor/elementor/widgets/feature-post-tab.php:123
+#: components/editor/elementor/widgets/main-slider.php:282
+#: components/editor/elementor/widgets/post-block-slider.php:118
+#: components/editor/elementor/widgets/post-block.php:346
+#: components/editor/elementor/widgets/post-grid-loadmore.php:222
+#: components/editor/elementor/widgets/post-grid-slider.php:241
+#: components/editor/elementor/widgets/post-grid.php:223
+#: components/editor/elementor/widgets/post-horizontal-block.php:168
+#: components/editor/elementor/widgets/post-list-tab.php:90
+#: components/editor/elementor/widgets/post-list.php:261
+#: components/editor/elementor/widgets/post-slider.php:272
+#: components/editor/elementor/widgets/post-tab.php:201
+#: components/editor/elementor/widgets/post-vertical-grid.php:220
+#: components/editor/elementor/widgets/video-post-slider2.php:110
+#: components/editor/elementor/widgets/video-post-tab.php:116
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:142
+msgid "Show Date"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:239
+#: components/editor/elementor/widgets/feature-post-tab.php:134
+#: components/editor/elementor/widgets/main-slider.php:293
+#: components/editor/elementor/widgets/post-block-slider.php:129
+#: components/editor/elementor/widgets/post-block.php:357
+#: components/editor/elementor/widgets/post-grid-loadmore.php:233
+#: components/editor/elementor/widgets/post-grid-slider.php:252
+#: components/editor/elementor/widgets/post-grid.php:234
+#: components/editor/elementor/widgets/post-horizontal-block.php:179
+#: components/editor/elementor/widgets/post-list-tab.php:80
+#: components/editor/elementor/widgets/post-list.php:272
+#: components/editor/elementor/widgets/post-slider.php:283
+#: components/editor/elementor/widgets/post-tab.php:212
+#: components/editor/elementor/widgets/post-vertical-grid.php:231
+#: components/editor/elementor/widgets/video-post-slider2.php:121
+#: components/editor/elementor/widgets/video-post-tab.php:127
+msgid "Show Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:251
+msgid "Enable post skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:263
+#: components/editor/elementor/widgets/feature-post-tab.php:250
+#: components/editor/elementor/widgets/main-slider.php:388
+#: components/editor/elementor/widgets/post-block-slider.php:180
+#: components/editor/elementor/widgets/post-block.php:427
+#: components/editor/elementor/widgets/post-grid-slider.php:383
+#: components/editor/elementor/widgets/post-grid.php:355
+#: components/editor/elementor/widgets/post-horizontal-block.php:231
+#: components/editor/elementor/widgets/post-list.php:164
+#: components/editor/elementor/widgets/post-slider.php:344
+#: components/editor/elementor/widgets/post-tab.php:287
+#: components/editor/elementor/widgets/post-vertical-grid.php:304
+#: components/editor/elementor/widgets/video-post-slider2.php:170
+#: components/editor/elementor/widgets/video-post-tab.php:185
+msgid "Skip post count"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:297
+#: components/editor/elementor/widgets/main-slider.php:433
+#: components/editor/elementor/widgets/post-block-slider.php:240
+#: components/editor/elementor/widgets/post-block.php:472
+#: components/editor/elementor/widgets/post-grid-loadmore.php:365
+#: components/editor/elementor/widgets/post-grid-slider.php:416
+#: components/editor/elementor/widgets/post-grid.php:388
+#: components/editor/elementor/widgets/post-horizontal-block.php:267
+#: components/editor/elementor/widgets/post-list.php:501
+#: components/editor/elementor/widgets/post-slider.php:426
+#: components/editor/elementor/widgets/post-vertical-grid.php:369
+#: components/editor/elementor/widgets/video-post-slider2.php:286
+msgid "Title hover color"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:311
+#: components/editor/elementor/widgets/main-slider.php:447
+#: components/editor/elementor/widgets/post-block-slider.php:254
+#: components/editor/elementor/widgets/post-block.php:505
+#: components/editor/elementor/widgets/post-block.php:546
+#: components/editor/elementor/widgets/post-grid-loadmore.php:380
+#: components/editor/elementor/widgets/post-grid-slider.php:430
+#: components/editor/elementor/widgets/post-grid.php:402
+#: components/editor/elementor/widgets/post-horizontal-block.php:281
+#: components/editor/elementor/widgets/post-list-tab.php:173
+#: components/editor/elementor/widgets/post-slider.php:440
+#: components/editor/elementor/widgets/post-tab.php:357
+#: components/editor/elementor/widgets/post-tab.php:563
+#: components/editor/elementor/widgets/post-vertical-grid.php:383
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:769
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:983
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1119
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1140
+msgid "Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/editor-pick.php:321
+#: components/editor/elementor/widgets/post-block-slider.php:264
+#: components/editor/elementor/widgets/post-block.php:573
+#: components/editor/elementor/widgets/post-horizontal-block.php:290
+#: components/editor/elementor/widgets/post-slider.php:460
+#: components/editor/elementor/widgets/post-vertical-grid.php:404
+#: components/editor/elementor/widgets/video-post-tab.php:275
+msgid "Footer color"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:16
+msgid "Feature Post Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:56
+msgid "Desc limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:65
+#: components/editor/elementor/widgets/post-list.php:111
+#: components/editor/elementor/widgets/video-post-tab.php:57
+msgid "Image height"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:83
+msgid "Feature list height"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:112
+#: components/editor/elementor/widgets/main-slider.php:157
+#: components/editor/elementor/widgets/post-block-slider.php:95
+#: components/editor/elementor/widgets/post-block.php:265
+#: components/editor/elementor/widgets/post-grid-loadmore.php:201
+#: components/editor/elementor/widgets/post-grid-slider.php:230
+#: components/editor/elementor/widgets/post-grid.php:212
+#: components/editor/elementor/widgets/post-horizontal-block.php:145
+#: components/editor/elementor/widgets/post-list.php:249
+#: components/editor/elementor/widgets/post-slider.php:168
+#: components/editor/elementor/widgets/post-tab.php:267
+#: components/editor/elementor/widgets/post-vertical-grid.php:109
+#: components/editor/elementor/widgets/video-post-slider2.php:99
+#: components/editor/elementor/widgets/video-post-tab.php:105
+msgid "Select tags"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:156
+#: components/editor/elementor/widgets/main-slider.php:200
+#: components/editor/elementor/widgets/post-block.php:287
+#: components/editor/elementor/widgets/post-grid-loadmore.php:257
+#: components/editor/elementor/widgets/post-grid-slider.php:275
+#: components/editor/elementor/widgets/post-grid.php:258
+#: components/editor/elementor/widgets/post-list.php:190
+#: components/editor/elementor/widgets/post-slider.php:214
+#: components/editor/elementor/widgets/post-tab.php:153
+#: components/editor/elementor/widgets/post-vertical-grid.php:152
+msgid "Show Author image"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:167
+#: components/editor/elementor/widgets/main-slider.php:211
+#: components/editor/elementor/widgets/post-block.php:298
+#: components/editor/elementor/widgets/post-grid-loadmore.php:268
+#: components/editor/elementor/widgets/post-grid-slider.php:286
+#: components/editor/elementor/widgets/post-grid.php:269
+#: components/editor/elementor/widgets/post-list.php:201
+#: components/editor/elementor/widgets/post-slider.php:225
+#: components/editor/elementor/widgets/post-tab.php:164
+#: components/editor/elementor/widgets/post-vertical-grid.php:163
+msgid "Avatar image size"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:202
+#: components/editor/elementor/widgets/video-post-tab.php:137
+msgid "Show View Count"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:212
+#: components/editor/elementor/widgets/main-slider.php:304
+#: components/editor/elementor/widgets/post-block-slider.php:141
+#: components/editor/elementor/widgets/post-block.php:389
+#: components/editor/elementor/widgets/post-grid-loadmore.php:315
+#: components/editor/elementor/widgets/post-grid-slider.php:334
+#: components/editor/elementor/widgets/post-grid.php:316
+#: components/editor/elementor/widgets/post-horizontal-block.php:191
+#: components/editor/elementor/widgets/post-list.php:368
+#: components/editor/elementor/widgets/post-slider.php:294
+#: components/editor/elementor/widgets/post-tab.php:223
+#: components/editor/elementor/widgets/post-vertical-grid.php:242
+#: components/editor/elementor/widgets/video-post-slider2.php:131
+#: components/editor/elementor/widgets/video-post-tab.php:147
+msgid "Post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:216
+#: components/editor/elementor/widgets/main-slider.php:308
+#: components/editor/elementor/widgets/post-block-slider.php:145
+#: components/editor/elementor/widgets/post-block.php:393
+#: components/editor/elementor/widgets/post-grid-loadmore.php:319
+#: components/editor/elementor/widgets/post-grid-slider.php:338
+#: components/editor/elementor/widgets/post-grid.php:320
+#: components/editor/elementor/widgets/post-horizontal-block.php:195
+#: components/editor/elementor/widgets/post-list-tab.php:104
+#: components/editor/elementor/widgets/post-list-tab.php:117
+#: components/editor/elementor/widgets/post-list-tab.php:130
+#: components/editor/elementor/widgets/post-list.php:372
+#: components/editor/elementor/widgets/post-slider.php:298
+#: components/editor/elementor/widgets/post-tab.php:227
+#: components/editor/elementor/widgets/post-vertical-grid.php:246
+#: components/editor/elementor/widgets/video-post-slider2.php:135
+#: components/editor/elementor/widgets/video-post-tab.php:151
+msgid "Latest posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:217
+#: components/editor/elementor/widgets/main-slider.php:309
+#: components/editor/elementor/widgets/post-block-slider.php:146
+#: components/editor/elementor/widgets/post-block.php:394
+#: components/editor/elementor/widgets/post-grid-loadmore.php:320
+#: components/editor/elementor/widgets/post-grid-slider.php:339
+#: components/editor/elementor/widgets/post-grid.php:321
+#: components/editor/elementor/widgets/post-horizontal-block.php:196
+#: components/editor/elementor/widgets/post-list.php:373
+#: components/editor/elementor/widgets/post-slider.php:299
+#: components/editor/elementor/widgets/post-tab.php:228
+#: components/editor/elementor/widgets/post-vertical-grid.php:247
+#: components/editor/elementor/widgets/video-post-slider2.php:136
+#: components/editor/elementor/widgets/video-post-tab.php:152
+msgid "Popular posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:218
+#: components/editor/elementor/widgets/main-slider.php:310
+#: components/editor/elementor/widgets/post-block-slider.php:147
+#: components/editor/elementor/widgets/post-block.php:395
+#: components/editor/elementor/widgets/post-grid-loadmore.php:321
+#: components/editor/elementor/widgets/post-grid-slider.php:340
+#: components/editor/elementor/widgets/post-grid.php:322
+#: components/editor/elementor/widgets/post-horizontal-block.php:197
+#: components/editor/elementor/widgets/post-list-tab.php:106
+#: components/editor/elementor/widgets/post-list-tab.php:119
+#: components/editor/elementor/widgets/post-list-tab.php:132
+#: components/editor/elementor/widgets/post-list.php:374
+#: components/editor/elementor/widgets/post-slider.php:300
+#: components/editor/elementor/widgets/post-tab.php:229
+#: components/editor/elementor/widgets/post-vertical-grid.php:248
+#: components/editor/elementor/widgets/video-post-slider2.php:137
+#: components/editor/elementor/widgets/video-post-tab.php:153
+msgid "Most discussed"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:238
+#: components/editor/elementor/widgets/main-slider.php:376
+#: components/editor/elementor/widgets/post-block-slider.php:168
+#: components/editor/elementor/widgets/post-block.php:415
+#: components/editor/elementor/widgets/post-grid-slider.php:371
+#: components/editor/elementor/widgets/post-grid.php:343
+#: components/editor/elementor/widgets/post-horizontal-block.php:219
+#: components/editor/elementor/widgets/post-list.php:152
+#: components/editor/elementor/widgets/post-slider.php:332
+#: components/editor/elementor/widgets/post-vertical-grid.php:281
+#: components/editor/elementor/widgets/video-post-slider2.php:158
+#: components/editor/elementor/widgets/video-post-tab.php:173
+msgid "Post skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:263
+msgid "Feature list"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:285
+#: components/editor/elementor/widgets/feature-post-tab.php:341
+#: components/editor/elementor/widgets/video-post-tab.php:220
+#: components/editor/elementor/widgets/video-post-tab.php:265
+msgid "title"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:297
+msgid "Feature post details"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:317
+#: components/editor/elementor/widgets/video-post-tab.php:252
+msgid "Title hover color "
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:328
+msgid "Desc color "
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:350
+msgid "Feature title margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:362
+#: components/editor/elementor/widgets/main-slider.php:495
+msgid "meta color"
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:373
+msgid "Meta Typography "
+msgstr ""
+
+#: components/editor/elementor/widgets/feature-post-tab.php:382
+msgid "Feature meta margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:16
+msgid "Post Main Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:62
+#: components/editor/elementor/widgets/post-block.php:62
+#: components/editor/elementor/widgets/post-list.php:64
+msgid "Style 4"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:99
+#: components/editor/elementor/widgets/post-grid-slider.php:93
+msgid "Nav Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:110
+msgid "Dot Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:131
+#: components/editor/elementor/widgets/post-block-slider.php:68
+#: components/editor/elementor/widgets/post-block.php:227
+#: components/editor/elementor/widgets/post-horizontal-block.php:118
+#: components/editor/elementor/widgets/post-slider.php:143
+#: components/editor/elementor/widgets/post-tab.php:127
+#: components/editor/elementor/widgets/post-vertical-grid.php:83
+msgid "Select Post Format"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:134
+#: components/editor/elementor/widgets/post-block-slider.php:71
+#: components/editor/elementor/widgets/post-block.php:230
+#: components/editor/elementor/widgets/post-horizontal-block.php:121
+#: components/editor/elementor/widgets/post-slider.php:146
+#: components/editor/elementor/widgets/post-tab.php:130
+#: components/editor/elementor/widgets/post-vertical-grid.php:86
+msgid "Standard"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:135
+#: components/editor/elementor/widgets/post-block-slider.php:72
+#: components/editor/elementor/widgets/post-block.php:231
+#: components/editor/elementor/widgets/post-horizontal-block.php:122
+#: components/editor/elementor/widgets/post-slider.php:147
+#: components/editor/elementor/widgets/post-tab.php:131
+#: components/editor/elementor/widgets/post-vertical-grid.php:87
+msgid "Video"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:247
+#: components/editor/elementor/widgets/post-list.php:283
+msgid "Post Meta title up/down"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:251
+#: components/editor/elementor/widgets/post-list.php:287
+msgid "Meta title before"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:252
+#: components/editor/elementor/widgets/post-list.php:288
+msgid "Meta title after"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:263
+#: components/editor/elementor/widgets/post-block.php:381
+#: components/editor/elementor/widgets/post-list.php:348
+#: components/editor/elementor/widgets/post-vertical-grid.php:201
+#: core/hooks/blog.php:11
+msgid "read more"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:311
+msgid "Featured posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:331
+#: components/editor/elementor/widgets/post-block.php:145
+msgid "Feature image height"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:365
+#: components/editor/elementor/widgets/post-block.php:241
+#: components/editor/elementor/widgets/post-grid-slider.php:162
+#: components/editor/elementor/widgets/post-grid.php:125
+#: components/editor/elementor/widgets/post-list.php:333
+#: components/editor/elementor/widgets/post-slider.php:320
+msgid "Show Rating"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:400
+#: components/editor/elementor/widgets/post-block-slider.php:192
+#: components/editor/elementor/widgets/post-block.php:451
+#: components/editor/elementor/widgets/post-grid-loadmore.php:343
+#: components/editor/elementor/widgets/post-grid-slider.php:395
+#: components/editor/elementor/widgets/post-grid.php:367
+#: components/editor/elementor/widgets/post-horizontal-block.php:244
+#: components/editor/elementor/widgets/post-slider.php:405
+#: components/editor/elementor/widgets/post-vertical-grid.php:348
+msgid " Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:408
+msgid "Content Box BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:456
+#: components/editor/elementor/widgets/post-grid-loadmore.php:403
+#: components/editor/elementor/widgets/post-list.php:444
+msgid "Title margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:470
+msgid "Description color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:485
+#: components/editor/elementor/widgets/post-grid.php:435
+msgid "Meta Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:510
+msgid "Nav prev color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:523
+msgid "Nav next color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:537
+msgid "dot color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:550
+msgid "dot Active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:564
+#: components/editor/elementor/widgets/post-grid-slider.php:498
+msgid "Slider Dot Position X"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:597
+#: components/editor/elementor/widgets/post-grid-slider.php:531
+msgid "Slider Dot Position Y"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:632
+#: components/editor/elementor/widgets/post-grid-slider.php:574
+msgid "Content padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:645
+msgid "Description padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:658
+#: components/editor/elementor/widgets/post-block.php:590
+#: components/editor/elementor/widgets/post-grid-slider.php:566
+#: components/editor/elementor/widgets/post-grid.php:444
+#: components/editor/elementor/widgets/post-list.php:620
+#: components/editor/elementor/widgets/post-tab.php:572
+msgid " Advance"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:669
+#: components/editor/elementor/widgets/post-block.php:642
+#: components/editor/elementor/widgets/post-grid-slider.php:588
+#: components/editor/elementor/widgets/post-grid.php:465
+msgid "Background Overlay"
+msgstr ""
+
+#: components/editor/elementor/widgets/main-slider.php:677
+#: components/editor/elementor/widgets/post-block.php:597
+#: components/editor/elementor/widgets/post-grid-loadmore.php:427
+#: components/editor/elementor/widgets/post-grid-slider.php:596
+#: components/editor/elementor/widgets/post-grid.php:473
+#: components/editor/elementor/widgets/post-list.php:628
+#: components/editor/elementor/widgets/post-tab.php:580
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:315
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:970
+msgid "Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:16
+msgid "Post Block Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:48
+msgid "Slide count"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:213
+#: components/editor/elementor/widgets/post-grid-slider.php:81
+msgid "Dot nav"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:16
+msgid "Post Block "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:69
+#: components/editor/elementor/widgets/post-list.php:70
+msgid "Style 5"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:76
+#: components/editor/elementor/widgets/post-list.php:77
+msgid "Style 6"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:83
+msgid "Style 7"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:89
+msgid "Style 8"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:95
+msgid "Style 9"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:101
+msgid "Style 10"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:107
+msgid "Style 11"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:187
+msgid "Post Small title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:196
+#: components/editor/elementor/widgets/post-tab.php:100
+msgid "Feature Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:368
+msgid "Show small post Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:438
+msgid "Reverse Column"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:459
+#: components/editor/elementor/widgets/post-list.php:403
+#: components/editor/elementor/widgets/video-post-slider2.php:192
+msgid "Feature Title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:484
+msgid "Descrition Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:496
+msgid "Feature title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:523
+msgid "feature title Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:537
+msgid "Small Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:561
+msgid "Small title Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:611
+msgid "Feature Content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block.php:625
+#: components/editor/elementor/widgets/post-vertical-grid.php:292
+msgid "Post Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:16
+msgid "Posts Grid Loadmore"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:32
+msgid "Post loadmore"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:72
+#: components/editor/elementor/widgets/post-grid-slider.php:142
+#: components/editor/elementor/widgets/post-grid.php:92
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:278
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:887
+msgid "Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:82
+#: components/editor/elementor/widgets/post-grid-slider.php:152
+#: components/editor/elementor/widgets/post-grid.php:102
+msgid "Post Title limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:92
+msgid "Show loadmore"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:103
+msgid "Show rating"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:114
+msgid "Show desc"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:126
+#: components/editor/elementor/widgets/post-grid.php:137
+msgid "Description limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:146
+#: components/editor/elementor/widgets/post-grid-slider.php:183
+#: components/editor/elementor/widgets/post-grid.php:157
+#: components/editor/elementor/widgets/video-post-slider2.php:56
+msgid "Thumbnail Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:176
+#: components/editor/elementor/widgets/post-grid.php:187
+#: components/editor/elementor/widgets/post-horizontal-block.php:303
+msgid "margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:212
+#: components/editor/elementor/widgets/post-slider.php:392
+msgid "Show gradient color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:390
+msgid "Meta content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:415
+#: components/editor/elementor/widgets/post-grid.php:452
+#: components/editor/elementor/widgets/post-list.php:572
+#: components/editor/elementor/widgets/post-slider.php:474
+#: components/editor/elementor/widgets/post-vertical-grid.php:430
+#: components/editor/elementor/widgets/video-post-slider2.php:252
+msgid "Content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-loadmore.php:554
+msgid "Load More"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:16
+msgid "Posts Grid Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:57
+msgid "Gradient Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:104
+msgid "Slider Post count"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:114
+#: components/editor/elementor/widgets/post-grid.php:64
+msgid "Grid background color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:127
+#: components/editor/elementor/widgets/post-grid.php:77
+#: components/theme/options/taxonomies/category.php:18
+msgid "Text color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:347
+msgid "Week end top"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:438
+#: components/editor/elementor/widgets/post-grid.php:410
+#: components/editor/elementor/widgets/post-slider.php:448
+#: components/editor/elementor/widgets/post-tab.php:378
+#: components/editor/elementor/widgets/post-vertical-grid.php:392
+#: components/editor/elementor/widgets/title.php:285
+msgid "Title Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:450
+msgid "Footer content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:464
+msgid " Block slider color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:473
+msgid "Dot bg color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid-slider.php:485
+msgid "Dot border active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:16
+msgid "Posts Grid"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:323
+msgid "Most rating"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:422
+msgid "Post meta color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-horizontal-block.php:19
+msgid "Horizontal post block"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-horizontal-block.php:418
+#: components/editor/elementor/widgets/post-horizontal-block.php:452
+#: components/theme/options/customizer/options-blocks.php:228
+msgid "Read More"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:14
+msgid "Post List tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:29
+msgid "Post list"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:36
+msgid "Tab Left Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:38
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:249
+msgid "RECENT"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:45
+msgid "Tab Center Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:47
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:250
+msgid "POPULAR"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:54
+msgid "Tab right Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:56
+msgid "COMMENT"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:100
+msgid "left post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:105
+#: components/editor/elementor/widgets/post-list-tab.php:118
+#: components/editor/elementor/widgets/post-list-tab.php:131
+msgid "View count"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:113
+msgid "center post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:126
+msgid "Right post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:141
+msgid "Post title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:148
+#: components/editor/elementor/widgets/post-tab.php:543
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:438
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:459
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:480
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:510
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:531
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:552
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:656
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:672
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:697
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:713
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:738
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:753
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:796
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:812
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:837
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:853
+msgid "Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:160
+msgid "Hover Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:186
+msgid "Tab Menu active"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:194
+msgid "Menu Item Bg color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:208
+msgid "Menu item color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:16
+msgid "Post List"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:297
+msgid "Show Overlay Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:322
+msgid "Column Reverse"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:357
+msgid "Big Post Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:395
+#: components/editor/elementor/widgets/video-post-slider2.php:184
+msgid " Post feature"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:418
+#: components/editor/elementor/widgets/video-post-slider2.php:205
+msgid "Feature Title hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:434
+#: components/editor/elementor/widgets/video-post-slider2.php:219
+msgid "Typography feature title "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:457
+#: components/editor/elementor/widgets/post-list.php:554
+#: components/editor/elementor/widgets/video-post-slider2.php:240
+msgid "Meta color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:517
+#: components/editor/elementor/widgets/video-post-slider2.php:300
+msgid "Typography title "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:530
+msgid "Content color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:546
+msgid "Typography content "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:586
+msgid "Advance"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:594
+msgid "Show border"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list.php:605
+msgid "Post border color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:16
+#: components/editor/elementor/widgets/post-tab.php:83
+msgid "Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:73
+msgid "Post show"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:96
+msgid "Dot Nav"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:122
+msgid "Nav top"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:384
+msgid "Post slider margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:487
+msgid "Nav arrow Vertical position"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:517
+msgid "Nav arrow Horizontal position"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:546
+msgid "Nav Arrow color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-slider.php:561
+msgid "post border radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:14
+msgid "Post tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:37
+msgid "Show block title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:50
+#: components/editor/elementor/widgets/post-tab.php:64
+msgid "Block title markup"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:68
+#: components/editor/elementor/widgets/title.php:97
+msgid "H1"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:69
+#: components/editor/elementor/widgets/title.php:98
+msgid "H2"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:70
+#: components/editor/elementor/widgets/title.php:99
+msgid "H3"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:71
+#: components/editor/elementor/widgets/title.php:100
+msgid "H4"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:72
+#: components/editor/elementor/widgets/title.php:101
+msgid "H5"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:81
+msgid "Block title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:109
+msgid "Small Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:249
+msgid "Tabs"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:253
+msgid "Add Label"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:274
+msgid "Tab title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:280
+msgid "Post Skip"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:300
+msgid "Block Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:308
+msgid "Block title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:323
+msgid "Title seperator background"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:340
+msgid "Title border color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:366
+#: components/editor/elementor/widgets/title.php:273
+msgid "Title Text Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:391
+#: components/editor/elementor/widgets/title.php:318
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:295
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1000
+msgid "Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:404
+#: components/editor/elementor/widgets/title.php:331
+msgid "Angle Shap Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:430
+msgid "Tab Menu"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:437
+msgid "Tab menu color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:448
+msgid "Tab menu active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:463
+msgid "Tab Menu Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:474
+msgid "Post Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:482
+msgid "Post  color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:493
+msgid "Post hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:506
+msgid "Feature Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:515
+msgid "Small Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:524
+msgid "Post content"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:532
+msgid "Author and date color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:554
+msgid "Content "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:16
+msgid "Post vertical grid"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:268
+msgid "Post column"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:272
+msgid "column 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:273
+msgid "column 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:274
+msgid "column 4"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-vertical-grid.php:418
+msgid "Post Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:19
+msgid "Site Logo"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:36
+msgid "Logo settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:43
+msgid "Logo"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:52
+msgid "Logo Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:63
+msgid "Logo Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/site-logo.php:102
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:407
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:578
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:958
+msgid "Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:18
+#: components/editor/elementor/widgets/title.php:170
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:69
+#: components/theme/options/customizer/options-general.php:56
+#: components/theme/options/customizer/options-general.php:134
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1109
+msgid "Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:34
+msgid "Title settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:79
+#: components/editor/elementor/widgets/title.php:82
+msgid "Heading text"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:83
+msgid " Life Style "
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:93
+msgid "Heading type"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:102
+msgid "H6"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:103
+msgid "P"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:118
+msgid "left"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:152
+msgid "Show Title Left Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:154
+#: components/editor/elementor/widgets/title.php:309
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:60
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:95
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:144
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:159
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:175
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:187
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:200
+msgid "Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:155
+#: components/editor/elementor/widgets/title.php:310
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:61
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:96
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:145
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:160
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:176
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:188
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:201
+msgid "Hide"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:178
+msgid "Title Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:196
+msgid "Title border style color"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:212
+msgid "Border Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:264
+msgid "Main title"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:299
+msgid "Title Shap"
+msgstr ""
+
+#: components/editor/elementor/widgets/title.php:307
+msgid "Show Title shap"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-slider2.php:16
+msgid "Video Post Slider2"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-slider2.php:228
+msgid "Title margin Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:16
+msgid "Video Post Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:75
+msgid "Video list height"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:198
+msgid "Video list"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:232
+msgid "Video details"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:286
+msgid "Video content Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:365
+msgid "Video Playlist"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:366
+msgid "1"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:366
+msgid "videos"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:71
+msgid "select1"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:72
+msgid "select2"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:73
+msgid "select3"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:143
+msgid "Unknown Set"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:157
+msgid "Web Application Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:158
+msgid "Hand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:159
+msgid "Transportation Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:160
+msgid "Gender Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:161
+msgid "File Type Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:162
+msgid "Payment Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:163
+msgid "Currency Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:164
+msgid "Text Editor Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:165
+msgid "Directional Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:166
+msgid "Video Player Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:167
+msgid "Brand Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:168
+msgid "Medical Icons"
+msgstr ""
+
+#: components/option-types/new-icon/class-fw-option-type-new-icon.php:169
+msgid "Digiqole Icons"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr ""
+
+#: components/option-types/new-icon/view.php:47
+msgid "icon search"
+msgstr ""
+
+#: components/theme/manifest.php:7
+msgid "Event WordPress Theme"
+msgstr ""
+
+#: components/theme/options/customizer.php:8
+msgid "Theme settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:7
+msgid "Ads settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:12
+#: components/theme/options/customizer/options-ads.php:13
+msgid "Top banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:18
+#: components/theme/options/customizer/options-ads.php:57
+#: components/theme/options/customizer/options-ads.php:115
+msgid "Ad link"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:21
+#: components/theme/options/customizer/options-ads.php:61
+#: components/theme/options/customizer/options-ads.php:119
+msgid "Ad Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:27
+#: components/theme/options/customizer/options-ads.php:67
+#: components/theme/options/customizer/options-ads.php:125
+msgid "Ad html"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:28
+#: components/theme/options/customizer/options-ads.php:68
+#: components/theme/options/customizer/options-ads.php:126
+msgid "You can use Adsense code here."
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:36
+#: components/theme/options/customizer/options-ads.php:37
+#: components/theme/options/customizer/options-ads.php:94
+#: components/theme/options/customizer/options-ads.php:95
+msgid "Single blog Ad"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:42
+#: components/theme/options/customizer/options-ads.php:100
+msgid "Enable Ad"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:43
+#: components/theme/options/customizer/options-ads.php:101
+msgid "Do you want to enable Ad?"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:74
+#: components/theme/options/customizer/options-ads.php:132
+msgid "Ad position"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:77
+#: components/theme/options/customizer/options-ads.php:135
+msgid "Before post title"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:78
+#: components/theme/options/customizer/options-ads.php:136
+msgid "Before post content"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:79
+#: components/theme/options/customizer/options-ads.php:137
+msgid "After post content"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:80
+#: components/theme/options/customizer/options-ads.php:138
+msgid "After post tag"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:7
+msgid "Blog"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:10
+msgid "Global blog title"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:15
+msgid "Global header background image"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:19
+#: components/theme/options/taxonomies/category.php:46
+msgid "Category template"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:20
+msgid "Post block style in category pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:69
+#: components/theme/options/taxonomies/category.php:88
+msgid "Block feature post"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:70
+#: components/theme/options/taxonomies/category.php:89
+msgid "Do you want to show the feature post in category page?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:84
+#: components/theme/options/taxonomies/category.php:103
+msgid "Category sidebar layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:85
+#: components/theme/options/taxonomies/category.php:104
+msgid "The sidebar position of a blog category."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:101
+msgid "Post Char Limit"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:102
+msgid "Post Char Limit ex. 110"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:109
+#: components/theme/options/customizer/options-blog.php:220
+msgid "Post category"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:110
+#: components/theme/options/customizer/options-blog.php:221
+msgid "Do you want to show post category?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:123
+msgid "Post child category"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:124
+msgid "Do you want to show post child category?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:137
+#: components/theme/options/customizer/options-blog.php:236
+msgid "Post date"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:138
+#: components/theme/options/customizer/options-blog.php:237
+msgid "Do you want to show post date?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:151
+#: components/theme/options/customizer/options-blog.php:134
+msgid "Blog author"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:152
+#: components/theme/options/customizer/options-blog.php:135
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:166
+#: components/theme/options/customizer/options-blog.php:119
+msgid "Author image show"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:167
+msgid "Do you want to show author avatar image?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:181
+msgid "Archive title show"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:182
+msgid "Do you want to show archive title?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:196
+msgid "Category title show"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:197
+msgid "Do you want to show category title?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:212
+msgid "Do you want to show read more buttons?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:225
+msgid "Continue reading"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:226
+msgid "Readmore button text"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:233
+#: components/theme/options/taxonomies/category.php:121
+msgid "Pagination alignment"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:234
+#: components/theme/options/taxonomies/category.php:122
+msgid "Pagination alignment in blog category page."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:244
+msgid "Blog pagination"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:262
+msgid "Post title length"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:263
+msgid "Enable disable post title length."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:278
+#: components/theme/options/taxonomies/category.php:152
+msgid "Post title limit."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:279
+#: components/theme/options/taxonomies/category.php:153
+msgid "Post title limit, example: 10"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:292
+msgid "Post word length"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:293
+msgid "Enable disable  post word length."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:308
+#: components/theme/options/taxonomies/category.php:181
+msgid "Post word limit."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:309
+#: components/theme/options/taxonomies/category.php:182
+msgid "Post word limit, example: 100"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:8
+msgid "Blog Single"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:14
+msgid "Blog sticky sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:15
+msgid "Do you want to enable sticky sidebar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:28
+#: components/theme/options/posts/post.php:29
+msgid "Post header layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:29
+#: components/theme/options/posts/post.php:30
+msgid "Single post's header style."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:69
+#: components/theme/options/posts/post.php:66
+msgid "Post sidebar layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:70
+#: components/theme/options/posts/post.php:67
+msgid "The sidebar position of a blog post."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:88
+msgid "Post view counter"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:89
+msgid "Do you want to show the view counter in posts?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:104
+msgid "Do you want to show comment?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:120
+msgid "Do you want to show author image?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:148
+msgid "Blog navigation"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:149
+msgid "Do you want to show single blog navigation post?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:163
+#: components/theme/options/customizer/options-blog.php:283
+#: components/theme/options/customizer/options-blog.php:296
+#: components/theme/options/customizer/options-header.php:196
+msgid "Social share"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:164
+msgid "Do you want to show social share buttons?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:177
+msgid "Blog related post"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:178
+msgid "Do you want to show single blog related post?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:190
+msgid "Related post title"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:192
+msgid "Related post"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:196
+msgid "Related post count"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:204
+msgid "Read Time"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:205
+msgid "Do you want to show read time buttons?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:253
+msgid "Show multiple category"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:254
+msgid "Do you want to show post single or multiple category ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:267
+msgid "Blog author footer"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:268
+msgid "Do you want to show blog author in post footer ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:284
+#: components/theme/options/customizer/options-general.php:128
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-4.7 "
+"icons."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:285
+#: components/theme/options/customizer/options-general.php:129
+msgid "Add new"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:290
+#: components/theme/options/customizer/options-general.php:140
+msgid "Social icon"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:300
+msgid "Facebook"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:301
+msgid "twitter"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:302
+msgid "linkedin"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:303
+msgid "pinterest "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:304
+msgid "digg"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:305
+msgid "tumblr"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:306
+#: components/theme/options/customizer/options-blog.php:314
+msgid "blogger"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:307
+msgid "reddit"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:308
+msgid "delicious"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:309
+#: components/theme/options/customizer/options-blog.php:316
+msgid "flipboard"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:310
+msgid "vkontakte"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:311
+msgid "odnoklassniki"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:312
+msgid "moimir"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:313
+msgid "livejournal"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:315
+msgid "evernote"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:317
+msgid "mix"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:318
+msgid "meneame "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:319
+msgid "pocket "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:320
+msgid "surfingbird "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:321
+msgid "liveinternet "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:322
+msgid "buffer "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:323
+msgid "instapaper "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:324
+msgid "xing "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:325
+msgid "wordpres "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:326
+msgid "baidu "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:327
+msgid "renren "
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:328
+msgid "weibo "
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:8
+msgid "Footer settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:15
+msgid "Footer Top Show"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:16
+msgid "footer top / newsletter area show or hide."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:30
+msgid "Footer Top BG Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:31
+msgid "Set footer top / newsletter area background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:36
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:42
+msgid "Widget title color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:45
+msgid "You can change the widget title color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:48
+msgid "Widget text color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:51
+msgid "You can change the widget text color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:55
+msgid "Footer background Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:61
+msgid "Footer Background color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:64
+msgid ""
+"You can change the Footer background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:68
+msgid "Footer Copyright color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:70
+msgid ""
+"You can change the footer's background color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:73
+#: components/theme/options/customizer/options-footer.php:76
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:203
+msgid "Social"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:74
+msgid "Social text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:82
+msgid "&copy; 2019, Digiqole. All rights reserved"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:83
+msgid "Copyright text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:84
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:88
+msgid "Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:89
+msgid "Use Footer Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:94
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:95
+msgid "Use Footer Padding Bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:102
+msgid "Back to top"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:8
+msgid "General settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:12
+msgid "Preloader show"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:13
+msgid "Do you want to show preloader on your site ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:25
+msgid "Preloader logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:26
+msgid ""
+"When you enable preloader then you can set preloader image otherwise default "
+"color preloader you will see"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:34
+msgid "Logo text"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:63
+msgid "Light logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:64
+msgid ""
+"It's the Main logo and Footer logo, mostly it will be shown on \"dark or "
+"coloreful\" type area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:69
+msgid "Dark logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:70
+msgid "It will be shown on any \"light background\" type area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:77
+#: components/theme/options/customizer/options-general.php:78
+msgid "logo style"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:82
+msgid "Logo width"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:84
+msgid "Set Logo width. dont use \"px\""
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:88
+msgid "Logo Padding Top"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:90
+msgid "Set Logo top padding. dont use \"px\""
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:93
+msgid "Logo Padding bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:95
+msgid "Set Logo bottom padding. dont use \"px\""
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:104
+msgid "Breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:105
+msgid "Do you want to show breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:119
+msgid "Breadcrumb word length"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:120
+msgid "The length of the breadcumb text."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:127
+msgid "Social links"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:145
+msgid "Social link"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:154
+msgid "Reading progressbar"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:155
+msgid "Do you want to enable reading progressbar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:168
+msgid "Progressbar color"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:171
+msgid "You can change the progressbar color with rgba color or solid color"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:183
+msgid "Reading progressbar area"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:184
+msgid "Select option for reading progressbar on top "
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:187
+msgid "Blog Post"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:188
+msgid "Blog Page"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:189
+msgid "Blog Category"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:190
+msgid "All"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:201
+msgid "Custom Container Width"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:202
+msgid "Do you want to enable custom container width?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:230
+msgid "Container width laptop"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:242
+msgid "Container width Desktop"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:14
+msgid "Header settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:20
+msgid "Header builder Enable"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:43
+#: components/theme/options/customizer/options-header.php:62
+msgid "Header style"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:53
+msgid "edit"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:63
+msgid "This is the site's main header style."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:117
+msgid "Sticky header"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:118
+msgid "Do you want to enable sticky nav?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:134
+msgid "Topbar"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:135
+msgid "Do you want to show topbar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:151
+msgid "Topbar style"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:152
+msgid "topbar style"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:156
+msgid "Topbar Padding top"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:158
+msgid "Set topbar padding top. dont use \"px\""
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:162
+msgid "Topbar Padding bottom"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:164
+msgid "Set topbar bottom padding. dont use \"px\""
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:167
+msgid "Topbar background color"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:168
+msgid "Set topbar background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:172
+msgid "Topbar Text color"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:173
+msgid "Set topbar text color."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:180
+msgid "Search button show"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:181
+msgid "Do you want to show search button in header ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:197
+msgid "Do you want to show social share buttons in header?"
+msgstr ""
+
+#: components/theme/options/customizer/options-instgram.php:8
+msgid "Instgram settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-instgram.php:12
+msgid "Instgram User ID"
+msgstr ""
+
+#: components/theme/options/customizer/options-instgram.php:14
+msgid "30833064716"
+msgstr ""
+
+#: components/theme/options/customizer/options-instgram.php:18
+msgid "30833064716.3a81a9f.c65c1abd3b064ffc86e6cea51aa01ceb"
+msgstr ""
+
+#: components/theme/options/customizer/options-instgram.php:19
+msgid "Instgram Access Token"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:7
+msgid "Menu Style settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:20
+msgid "Menu Height"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:25
+msgid "Menu background"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:26
+msgid "Set Menu background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:30
+msgid "Menu color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:31
+msgid "Set Menu color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:35
+msgid "Menu hover color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:36
+msgid "Set Menu Hover color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:41
+msgid "Sub Menu color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:42
+msgid "Set sub menu color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:46
+msgid "Sub hover color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:47
+msgid "sub menu color."
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:52
+msgid "Humberger Color"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:53
+msgid "only for tab and mobile device"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:59
+msgid "Menu Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:60
+msgid "Choose the typography for the menu"
+msgstr ""
+
+#: components/theme/options/customizer/options-menu.php:88
+msgid "Sub menu fonts size"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:8
+msgid "News Ticker settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:13
+msgid "Newsticker"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:14
+msgid "Would you like to enable newsticker?"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:26
+msgid "Tranding box bg color"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:27
+#: components/theme/options/customizer/options-newsticker.php:32
+msgid "Tranding box bg color."
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:31
+msgid "Tranding Title bg color"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:38
+msgid "News Ticker title"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:39
+msgid "News Ticker Title."
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:40
+msgid "Trending"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:44
+msgid "Newsticker Navigation"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:45
+msgid "Would you like to enable newsticker navigation?"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:60
+msgid "Post select by"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:61
+msgid "Newsticker post source "
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:64
+msgid "latest Post"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:65
+msgid "Trending post"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:67
+msgid "Tag"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:78
+msgid "Newsticker post category"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:94
+msgid "Newsticker post tag"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:108
+msgid "Number of post"
+msgstr ""
+
+#: components/theme/options/customizer/options-newsticker.php:109
+msgid "Number of post to show in newsticker"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:16
+msgid "Body box layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:33
+msgid "Background Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:34
+msgid "Body background image"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:49
+msgid "Theme dark style?"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:50
+msgid "Do you want to use theme style?"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:54
+#: core/installation-fragments/theme-demos.php:17
+msgid "Dark"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:58
+msgid "Light"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:63
+msgid "Body background"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:64
+msgid "Site's main background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:69
+msgid "Primary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:70
+msgid "Site's main color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:75
+msgid "Secondary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:76
+msgid "Secondary color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:81
+msgid "Body Text color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:82
+msgid "Body Text color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:87
+msgid "Blog title color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:96
+msgid "Body Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:97
+msgid "Choose the typography for the title"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:128
+msgid "Heading H1 and H2 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:129
+#: components/theme/options/customizer/options-style.php:148
+#: components/theme/options/customizer/options-style.php:167
+msgid "This is for heading google fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:147
+msgid "Heading H3 Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:166
+msgid "Heading H4 Fonts"
+msgstr ""
+
+#: components/theme/options/posts/post.php:8
+msgid "Post layout"
+msgstr ""
+
+#: components/theme/options/posts/post.php:15
+#: components/theme/options/taxonomies/category.php:32
+msgid "Override default layouts?"
+msgstr ""
+
+#: components/theme/options/posts/post.php:16
+#: components/theme/options/taxonomies/category.php:33
+msgid "You can change the default options from customizer's \"Blog settings\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:83
+msgid "Featured video"
+msgstr ""
+
+#: components/theme/options/posts/post.php:90
+msgid "Video URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:91
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:99
+msgid "Featured audio"
+msgstr ""
+
+#: components/theme/options/posts/post.php:106
+msgid "Audio URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:107
+msgid "Paste a soundcloud link here."
+msgstr ""
+
+#: components/theme/options/posts/post.php:114
+msgid "Featured gallary"
+msgstr ""
+
+#: components/theme/options/posts/post.php:121
+msgid "Only use post format gallery."
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:6
+msgid "upload feature image"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:7
+msgid "This will be used as the image"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:12
+msgid "Highlight color"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:13
+msgid "This will be used as the primary color for this category"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:19
+#: components/theme/options/taxonomies/category.php:25
+msgid ""
+"Choose a color that is easily readable within the highlight color background."
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:24
+msgid "background color"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:47
+msgid "Category block style in category pages."
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:136
+msgid "Custom post title length"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:137
+msgid "Enable disable custom post title length."
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:165
+msgid "Custom post word length"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:166
+msgid "Enable disable custom post word length."
+msgstr ""
+
+#: core/helpers/functions/global.php:281
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/helpers/functions/template.php:30
+msgid "Previous post"
+msgstr ""
+
+#: core/helpers/functions/template.php:42
+msgid "Next post"
+msgstr ""
+
+#: core/helpers/functions/template.php:67
+msgid "Home"
+msgstr ""
+
+#: core/helpers/functions/template.php:105
+#: core/helpers/functions/template.php:109
+#: core/helpers/functions/template.php:113
+msgid "Blogs for"
+msgstr ""
+
+#: core/helpers/functions/template.php:117
+msgid "Author Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:120
+msgid "Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:123
+msgid "Search Result"
+msgstr ""
+
+#: core/helpers/functions/template.php:126
+msgid "404 Not Found"
+msgstr ""
+
+#: core/helpers/functions/template.php:344
+msgid " minute read"
+msgstr ""
+
+#: core/helpers/functions/template.php:346
+msgid " minutes read"
+msgstr ""
+
+#: core/helpers/functions/template.php:405
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:409
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:416
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:419
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:437
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:443
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:444
+msgid " Previous"
+msgstr ""
+
+#: core/helpers/functions/template.php:573
+msgid "Digiqole ad"
+msgstr ""
+
+#: core/hooks/blog.php:36
+msgid "Search Keyword"
+msgstr ""
+
+#: core/hooks/widget-areas.php:11
+msgid "Blog widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:13
+msgid "Appears on posts."
+msgstr ""
+
+#: core/hooks/widget-areas.php:75
+msgid "WooCommerce Sidebar Area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:77
+msgid "Appears on posts and pages."
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/hook/blog.php:4
+msgid "Featured Posts"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/hook/blog.php:15
+msgid "Featured this post"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:30
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:81
+msgid "Add New "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:31
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:82
+msgid "Edit "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:32
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:80
+msgid "New "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:33
+msgid "View "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:34
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:85
+msgid "Search "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:35
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:36
+msgid "No "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:37
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:88
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:90
+msgid "Parent "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:83
+msgid "Update "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:84
+msgid "Add or remove "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:86
+msgid "Popular "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:87
+msgid "All "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/post-type/post-class.php:89
+msgid "Choose from the most used "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/author/widget-class.php:12
+msgid "Digiqole Author"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/author/widget-class.php:104
+msgid "Digiqole About Us "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/author/widget-class.php:123
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:155
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:86
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:260
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:139
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:173
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:285
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:77
+msgid "Title:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/author/widget-class.php:128
+msgid "Image:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/author/widget-class.php:139
+msgid "Author:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:14
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:17
+msgid "Digiqole category list"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:94
+msgid "WP Categories"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:96
+msgid "category"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:133
+msgid "Show All Category"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:134
+msgid "Include Selected Category:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:135
+msgid "Exclude Selected Category"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:156
+msgid "Hide Count"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/category-list/widget-class.php:158
+msgid "Contact to Author"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:12
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:15
+msgid "Digiqole footer address"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:119
+msgid "Footer address"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:159
+msgid "Message"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:165
+msgid "Address:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:171
+msgid "Mobile:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:177
+msgid "Media icon:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:183
+msgid "Map icon:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/footer-address/widget-class.php:189
+msgid "Map button:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:12
+msgid "Digiqole instagrams"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:15
+msgid "Digiqole instagram"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:69
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:213
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:214
+msgid "Instagram"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:93
+msgid "Log in and get my Access Token and User ID"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:98
+msgid "Access token:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:103
+msgid "User ID:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/instagram/widget-class.php:108
+msgid "Count:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:9
+msgid ""
+"A widget that display latest,popular,most commented posts from all categories"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:11
+msgid "Digiqole Latest Posts Tab"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:246
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:126
+msgid "Blog Posts"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:248
+msgid "viewcount"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:251
+msgid "COMMENTS"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:266
+msgid "Tab Left Title:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:272
+msgid "Tab Right Title:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:278
+msgid "Sort By"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:281
+msgid "Latest Posts"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:282
+msgid "Popular"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:283
+msgid "Rating"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:307
+msgid "Tab Center Title:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:313
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:189
+msgid "Post Title Crop:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:321
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:171
+msgid "Filter by Categories"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:323
+msgid "All categories"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post-tab/widget-class.php:333
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:183
+msgid "Count of Latest Post"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:9
+msgid "A widget that display latest posts from all categories"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:11
+msgid "Digiqole Latest Posts"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/recent-post/widget-class.php:145
+msgid "Order By"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:10
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:13
+msgid "Digiqole Office Hour"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:65
+msgid "Monday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:71
+msgid "Tuesday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:77
+msgid "Wednesday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:83
+msgid "Thursday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:89
+msgid "Friday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:96
+msgid "Saturday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:103
+msgid "Sunday"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:134
+msgid "Service hour"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:177
+msgid "Saturday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:183
+msgid "Sunday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:189
+msgid "Monday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:195
+msgid "Tuesday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:201
+msgid "Wednesday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:207
+msgid "Thursday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/service-hour/widget-class.php:213
+msgid "Friday:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:10
+msgid "Digiqole Social"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:13
+msgid "Digiqole social"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:289
+msgid "Facebook:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:295
+msgid "Twitter:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:301
+msgid "Google Plus:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:307
+msgid "Pinterest:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:313
+msgid "Instagram:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:319
+msgid "Linkedin:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:325
+msgid "behance:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:331
+msgid "flickr:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:337
+msgid "github:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:343
+msgid "soundcloud:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:349
+msgid "skype:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:356
+msgid "stumbleupon:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:362
+msgid "tumblr:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:368
+msgid "vimeo:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:374
+msgid "vine:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:380
+msgid "vk:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:386
+msgid "xing:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/social/widget-class.php:392
+msgid "yelp:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:10
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:13
+msgid "Digiqole twitter feed"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:25
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:66
+msgid "Loading!"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:62
+msgid "Twitter feed"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:81
+msgid "Username:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:87
+msgid "Loading text:"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:19
+msgid "Digiqole Instagram Feed"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:36
+msgid "Layout Settings "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:43
+msgid "Columns Grid"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:47
+msgid "2 Columns"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:48
+msgid "3 Columns"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:49
+msgid "4 Columns"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:58
+msgid "Feed Style"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:70
+msgid "Show Post"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:86
+msgid "Display Settings "
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:93
+msgid "Profile Header"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:107
+msgid "Profile Settings"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:111
+msgid "Only Profile Image"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:112
+msgid "Only Name"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:113
+msgid "Both"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:124
+msgid "Profile Style"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:128
+msgid "Circle"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:129
+msgid "Square"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:157
+msgid "Show Icon"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:173
+msgid "Show Comment Box"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:185
+msgid "Show Caption"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:198
+msgid "Enable Follow Button"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:211
+msgid "Social Title"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:225
+msgid "Follow link"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:228
+msgid "Follow Link"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:269
+msgid "Container"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:307
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1042
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1096
+msgid "Box Shadow"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:327
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:590
+msgid "Margin Bottom"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:350
+msgid "Gutter"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:374
+msgid "Container Spacing"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:399
+msgid "Header"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:422
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:640
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1010
+msgid "Normal"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:429
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:501
+msgid "Name"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:450
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:522
+msgid "Date"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:471
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:543
+msgid "Icon"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:494
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:780
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1052
+msgid "Hover"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:570
+msgid "Footer"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:613
+msgid "Margin Right"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:647
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:787
+msgid "Favourite"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:688
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:828
+msgid "Comment"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:729
+msgid "Content"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:875
+msgid "Media"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:899
+msgid "Scale"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:922
+msgid "Grayscale"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:947
+msgid "Button"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1017
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1059
+msgid "Text Color"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1029
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1071
+msgid "Background Color"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1083
+msgid "Border Color"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1128
+msgid "Title Color"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1149
+msgid "Sub Title Color"
+msgstr ""
+
+#: core/installation-fragments/plugins/digiqole-essential/modules/elements/instagram-feed/instagram-feed.php:1160
+msgid "Margin"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:9
+msgid "Unyson"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:14
+msgid "Elementor"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:19
+msgid "Contact form 7"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:24
+msgid "Mailchimp "
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:29
+msgid "Digiqole Essentials"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:37
+msgid "Wp Ultimate Review kit"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:42
+msgid "Elementskit Lite"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:47
+msgid "AccessPress Social Counter"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:7
+msgid "Demo (1-10)"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:12
+msgid "Personal Blog"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:22
+msgid "Covid-19"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:27
+msgid "Food Recipe"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:386
+#: core/libs/class-tgm-plugin-activation.php:823
+#: core/libs/class-tgm-plugin-activation.php:2529
+#: core/libs/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:387
+#: core/libs/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:388
+#: core/libs/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/libs/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:930
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1117
+#: core/libs/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/libs/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/libs/class-tgm-plugin-activation.php:2338
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2384
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/libs/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3505
+#: core/libs/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "TopBar Menu"
+msgstr ""
+
+#: functions.php:88
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:242
+msgid "Cancel Preloader"
+msgstr ""
+
+#: page.php:39 template-parts/blog/single/content-style1.php:58
+#: template-parts/blog/single/content-style2.php:54
+#: template-parts/blog/single/content-style3.php:38
+#: template-parts/blog/single/content-style4.php:38
+#: template-parts/blog/single/content-style5.php:25
+#: template-parts/blog/single/content-style6.php:55
+#: template-parts/blog/single/content-style7.php:34
+#: template-parts/blog/single/content-style8.php:52
+msgid "Edit"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:21
+msgid "Tags"
+msgstr ""
+
+#: template-parts/blog/category/parts/feature/feature-post.php:33
+msgid "Feature post"
+msgstr ""
+
+#: template-parts/blog/category/parts/grid-content_left_img_b.php:5
+#: template-parts/blog/contents/format/standard-gallery.php:8
+#: template-parts/blog/contents/format/standard-image.php:9
+#: template-parts/blog/contents/format/standard-image.php:25
+#: template-parts/blog/contents/format/standard-quote.php:12
+#: template-parts/blog/contents/format/standard-video.php:6
+#: template-parts/blog/contents/format/standard.php:9
+#: template-parts/blog/contents/format/standard.php:25
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-tags.php:8
+msgid "Tags: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Digiqole"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/tripples/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Digiqole is a Newspaper & Magazine WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tripples"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themewinter.com"
+msgstr ""

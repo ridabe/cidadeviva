@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------
+Comments
+--------------------------------------------------------------*/
+
+/* Comment list - Text column ************************************/
+
+#the-comment-list .gpur-comment-review-title {
+font-weight: 700;
+margin-bottom: 5px;
+}
+#the-comment-list .column-comment .gpur-element-wrapper {
+display: none;
+}
+
+/* Comment list - Rating column ************************************/
+
+.comments.fixed .column-rating {
+width: 16%;
+}
+#the-comment-list .comment-rating {
+margin: 0;
+}
+#the-comment-list .gpur-criterion {
+margin-bottom: 10px;
+}
+#the-comment-list .gpur-criterion-title {
+font-weight: 700;
+}
+#the-comment-list .gpur-rating-data * {
+display: inline;
+}
+#the-comment-list .gpur-your-user-rating {
+margin-left: 2px;
+}
+#the-comment-list .gpur-max-rating {
+margin-left: 2px;
+}
+#the-comment-list .gpur-max-rating:before {
+content: '\002F';
+margin-right: 2px;
+}
+
+/* Edit comments meta box ************************************/
+
+#gpur-review-details td.first {
+width: 100px;
+}
+#gpur-review-details input {
+width: 98%;
+}

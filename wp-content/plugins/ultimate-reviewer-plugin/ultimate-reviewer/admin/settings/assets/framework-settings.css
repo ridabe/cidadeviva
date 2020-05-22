@@ -1,0 +1,489 @@
+/*--------------------------------------------------------------
+General
+--------------------------------------------------------------*/
+
+.gp-clear {
+display: block;
+clear: both;
+margin: 0;
+padding: 0;
+width: 100%;
+height: 0;
+content: '';
+font-size: 0;
+line-height: 0;
+}
+.gp-hide {
+display: none;
+}
+.gp-error {
+background: #fff;
+border-left: 4px solid #dc3232;
+box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+margin: 30px 0 0 0;
+padding: 10px 12px;
+}
+.gp-settings-section {
+display: none;
+}
+.gp-settings-section.gp-show {
+display: block;
+}
+.gp-settings-section.gp-disabled .form-table {
+opacity: 0.5;
+pointer-events: none;
+}
+.gp-settings-section .form-table input[type='text']:not(.gp-small-text),
+.gp-settings-section .form-table textarea,
+.gp-settings-section .form-table select {
+width: 100%;
+margin: 0;
+vertical-align: top;
+}
+
+/*--------------------------------------------------------------
+Metaboxes
+--------------------------------------------------------------*/
+
+.postbox-container .gp-setting {
+margin-bottom: 20px;
+}
+.postbox-container .gp-settings-section .gp-setting:first-child {
+margin-top: 20px;
+}
+.postbox-container .gp-setting label {
+display: block;    
+margin-bottom: 5px;
+font-weight: 700;
+}
+
+/*--------------------------------------------------------------
+Settings page
+--------------------------------------------------------------*/
+
+/* Main nav tabs ************************************/
+
+#gp-settings-form .gp-main-nav-tab {
+cursor: pointer;
+}
+
+/* Sub nav tabs ************************************/
+
+#gp-settings-form .subsubsub {
+display: none;
+}
+#gp-settings-form .subsubsub.gp-show {
+display: block;
+}
+#gp-settings-form .gp-sub-nav-tab {
+cursor: pointer;
+}
+
+/* Sections ************************************/
+
+#gp-settings-form .gp-setting {
+background: #fff;
+}
+#gp-settings-form .gp-setting h2 {
+margin: 0;
+}
+#gp-settings-form .gp-setting th {
+padding-left: 20px;
+padding-top: 15px;
+}
+#gp-settings-form .gp-setting-begin,
+#gp-settings-form .gp-setting:first-child {
+border-top: 15px solid #f1f1f1;
+}
+#gp-settings-form .gp-setting-begin th {
+display: inline-block;
+}
+#gp-settings-form .gp-setting-begin th .description {
+font-weight: 400;
+}
+
+/* Section header ************************************/
+
+#gp-settings-form .gp-settings-section > h2 {
+margin-bottom: 0;
+}
+#gp-settings-form .gp-settings-section > h2 .description {
+display: block;
+margin-top: 5px;
+font-weight: 500;
+}
+
+/* Description ************************************/
+
+#gp-settings-form .gp-settings-section .description {
+float: left;
+clear: both;
+width: 100%;
+margin-top: 5px;
+}
+
+/* Submit buttons  ************************************/
+
+.gp-submit.gp-scrolling-submit {
+z-index: 4;
+position: fixed;
+left: auto;
+bottom: 0;
+width: 100%;
+background: #fff;
+border-top: 1px solid #eeee;
+margin: 0 0 0 -23px;
+padding: 20px;
+}
+.gp-submit .button-primary {
+margin-right: 10px;
+}
+
+/*--------------------------------------------------------------
+Fields
+--------------------------------------------------------------*/
+
+/* Ace editor field  ************************************/
+
+.gp-setting .ace_editor {
+height: 800px;
+}
+.gp-ace-textarea {
+display: none !important;
+}
+
+/* Checkbox field  ************************************/
+
+.gp-checkbox-field {
+margin: 0;
+}
+.gp-checkbox-field li:last-child {
+margin: 0;
+}
+
+/* Color picker field  ************************************/
+
+.gp-setting .wp-picker-container .color-alpha {
+height: 100% !important;
+}
+
+/* Dimensions field  ************************************/
+
+.gp-units {
+width: 60px;
+margin-left: 5px;
+}
+.gp-settings-section .form-table .gp-units select {
+width: 60px;
+}
+
+/*REMOVE.gp-dimensions-field .gp-units {
+margin-left: 5px;
+}*/
+
+/* Import field  ************************************/
+
+.gp-import-field input[type='file'] {
+margin-right: 5px;
+padding: 3px 10px;
+border: 1px solid #ddd;
+}
+    
+/* Image select field  ************************************/
+
+.gp-image-select-field li {
+display: inline-block;
+margin-right: 20px;
+text-align: center;
+}
+.gp-image-select-field li:last-child {
+margin-right: 0;
+}
+.gp-image-select-field img {
+display: block;
+margin-bottom: 5px;
+cursor: pointer;
+border: 3px solid #ddd;
+}
+.gp-image-select-field img:hover {
+border-color: #aaa;
+}
+.gp-image-select-field img.gp-active {
+border-color: #5b9dd9;
+}
+.gp-image-select-field input[type='radio'] {
+display: none;
+}
+
+/* Notice ************************************/
+
+.gp-notice-field {
+display: block;
+width: auto;
+position: relative;
+margin-top: 10px;
+padding: 20px 38px 20px 20px;
+background: #fff;
+border: 1px solid #ccd0d4;
+border-left: 4px solid #1dbbd4;
+box-shadow: 0 1px 1px rgba(0,0,0,.04);
+font-style: normal;
+}
+
+/* Text field  ************************************/
+
+.gp-input-text {
+padding: 6px 8px;
+}
+.gp-small-text {
+width: 80px;
+}
+
+/* Section header field  ************************************/
+
+label[for='gp-section-header'] {
+display: block;
+font-weight: 600;
+color: #23282d;
+font-size: 1.2em;
+margin: 0;
+white-space: nowrap;
+}
+
+/* Spinner field  ************************************/
+
+.gp-spinner-field .ui-widget-content {
+border-color: #ddd;
+box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+background-color: #fff;
+color: #32373c;
+outline: 0;
+transition: 50ms border-color ease-in-out;
+}
+.gp-spinner-field input {
+border: 0;
+box-shadow: none;
+}
+
+/* Slider field  ************************************/
+
+.gp-slider-field input {
+display: inline-block;
+width: 100px;
+}
+.gp-slider {
+display: inline-block;
+width: 50%;
+margin: 7px 0 0 15px;
+}
+
+/* Media/gallery field  ************************************/
+
+.gp-media-preview .gp-image-thumbnail {
+max-width: 150px;
+height: auto;
+margin-bottom: 10px;
+}
+.gp-media-preview .gp-audio-video-thumbnail {
+width: 30px;
+margin-bottom: 5px;
+}
+.gp-media-preview {
+display: block;
+}
+.gp-media-preview strong {
+display: block;
+margin-bottom: 5px;
+}
+.gp-gallery-preview img {
+width: 75px;
+height: 75px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.gp-media-button {
+margin-left: 8px;
+line-height: 28px;
+vertical-align: middle;
+text-align: left;
+color: #a00;
+text-decoration: none;
+}
+.gp-media-button:hover {
+color: #dc3232;
+}
+.gp-remove-media-button {
+display: none;
+margin-left: 10px;
+line-height: 28px;
+}
+.gp-remove-media-button.gp-show {
+display: inline-block;
+}
+
+/* Multi text field  ************************************/
+
+.gp-multi-text-input {
+margin-bottom: 5px;
+}
+.gp-multi-text-input input {
+margin-right: 5px;
+}
+
+/* Radio field  ************************************/
+
+.gp-radio-field {
+margin: 0;
+}
+.gp-radio-field li:last-child {
+margin: 0;
+}
+
+/* Styling fields  ************************************/
+
+.gp-styling-field {
+display: inline-block;
+float: left;
+width: 100%;
+}
+.gp-styling-field.gp-single-styling-field {
+min-height: auto;
+margin-right: 0;
+}
+.gp-styling-field .gp-label {
+display: block;
+margin-bottom: 5px;
+}
+
+/* Icon field */
+.gp-styling-field.gp-icon-field {
+min-width: 64px;
+}
+.gp-icon-wrapper {
+display: inline-block;
+vertical-align: top;
+}
+.gp-open-icons-box {
+display: -webkit-flex;
+display: flex;
+float: left;
+line-height: 1;
+width: 31px;
+height: 31px;
+background: #fff;
+border: 1px solid #ddd;
+-webkit-justify-content: center;
+justify-content: center;
+-webkit-align-items: center;
+align-items: center;
+}
+.gp-open-icons-box i {
+position: absolute;
+}
+.gp-icon-box-arrow {
+display: inline-block;
+height: 31px;
+width: 30px;
+margin-right: -64px;
+background: #fff;
+border: 1px solid #ddd;
+border-left-width: 0;
+line-height: 31px;
+text-align: center;
+}
+.gp-icon-box-arrow:before {
+content: '\f107';
+font-family: 'Font Awesome 5 Free', 'FontAwesome';
+font-weight: 900;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.gp-icon-box {
+z-index: 1;
+display: none;
+position: absolute;
+overflow: scroll;
+width: 279px;
+height: 200px;    
+padding: 6px 5px 6px 6px;
+background: #fff;
+border: 1px solid #eee;
+}
+.gp-opened .gp-icon-box {
+display: block;
+margin-top: 35px;
+}
+.gp-icon-box.gp-show-all-icons {
+height: auto;
+}
+.gp-all-icons-button {
+display: block;
+margin-top: 10px;
+}
+.gp-icon-link {
+display: block;
+float: left;
+margin: 0 2px 2px 0;
+padding: 5px 2px;
+width: 23px;
+height: 16px;
+border: 1px solid #eee;
+background: #f8f8f8 !important;
+color: #000 !important;
+text-align: center;
+}
+.gp-icon-link.gp-selected {
+border: 1px solid #d54e21;
+color: #d54e21 !important;
+}
+
+@media only screen and (min-width : 768px) {
+	
+	#gp-settings-form .gp-setting-begin th {
+	white-space: nowrap;
+	}
+	.gp-settings-section .form-table input[type='text']:not(.gp-small-text), 
+	.gp-settings-section .form-table textarea:not(.large-text),
+	.gp-settings-section .form-table select {
+	width: 400px;
+	}
+	.gp-styling-field {
+	width: auto;
+	min-height: 60px;
+	margin-right: 15px;
+	}
+	.gp-settings-section .form-table .gp-dimensions-field input[type='text'] {
+	width: 100px;
+	}
+	.gp-settings-section .form-table .gp-color-picker-field input[type='text'].wp-color-picker {
+	width: 65px;
+	}	
+	.gp-settings-section .form-table .gp-extra-css-field input[type='text'] {
+	width: 300px;
+	}
+	.gp-styling-field.gp-select-field select {
+	width: 250px;
+	}
+
+}
+
+@media screen and (max-width: 782px) {
+
+	#gp-settings-form .gp-setting th {
+	padding-left: 10px;
+	}
+	#gp-settings-form .form-table td {
+	padding-left: 10px;
+	}
+	.gp-settings-section .form-table td input[type=text].gp-small-text {
+	display: inline-block;
+	width: 80px;
+	}
+	.gp-setting .wp-picker-container .color-alpha {
+	width: 40px !important;
+	}
+	.gp-styling-field {
+	min-height: 65px;
+	}
+	
+}

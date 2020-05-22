@@ -1,0 +1,10 @@
+.gpur-action-button {
+display: block;
+margin-bottom: 5px;
+font-size: 11px;
+line-height: 1;
+text-transform: uppercase;
+}
+.gpur-loader {
+display: none;
+}
